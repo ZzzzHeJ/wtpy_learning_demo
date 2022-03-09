@@ -1,0 +1,13 @@
+{
+    "marks": [
+        "Strategy1",
+        "Strategy2"
+    ],
+    "channels": [
+        "simnow"
+    ],
+    "executers": [
+        "exec"
+    ],
+    "engine": "CTA"
+}

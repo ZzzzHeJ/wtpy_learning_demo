@@ -1,0 +1,29 @@
+{
+    "positions": [
+        {
+            "code": "SHFE.au.HOT",
+            "volume": 0.0,
+            "closeprofit": -79.99999999998409,
+            "dynprofit": 0.0,
+            "lastentertime": 202202181336,
+            "lastexittime": 202202181337,
+            "frozen": 0.0,
+            "frozendate": 0,
+            "details": []
+        }
+    ],
+    "fund": {
+        "total_profit": -79.99999999998409,
+        "total_dynprofit": 0.0,
+        "total_fees": 30.0,
+        "tdate": 20220218
+    },
+    "signals": {},
+    "conditions": {
+        "settime": 0,
+        "items": {}
+    },
+    "utils": {
+        "lastbarno": 14
+    }
+}

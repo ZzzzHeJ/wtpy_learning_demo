@@ -1,0 +1,4 @@
+code,direct,opentime,openprice,closetime,closeprice,qty,profit,totalprofit,entertag,exittag,openbarno,closebarno
+SHFE.au.HOT,SHORT,202202181332,386.66,202202181333,386.74,1,-80,-80,entershort,exitshort,7,8
+SHFE.au.HOT,SHORT,202202181334,386.72,202202181335,386.74,1,-20,-100,entershort,exitshort,9,10
+SHFE.au.HOT,LONG,202202181336,386.78,202202181337,386.8,1,20,-80,enterlong,exitlong,11,12
