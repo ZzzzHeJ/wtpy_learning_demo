@@ -5457,4 +5457,148 @@
             "maxmarketqty": 500
         },
         "wr2202": {
-        
+            "name": "Ïß²Ä2202",
+            "code": "wr2202",
+            "exchg": "SHFE",
+            "product": "wr",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "wr2203": {
+            "name": "Ïß²Ä2203",
+            "code": "wr2203",
+            "exchg": "SHFE",
+            "product": "wr",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "wr2204": {
+            "name": "Ïß²Ä2204",
+            "code": "wr2204",
+            "exchg": "SHFE",
+            "product": "wr",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "wr2205": {
+            "name": "Ïß²Ä2205",
+            "code": "wr2205",
+            "exchg": "SHFE",
+            "product": "wr",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "wr2206": {
+            "name": "Ïß²Ä2206",
+            "code": "wr2206",
+            "exchg": "SHFE",
+            "product": "wr",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "wr2207": {
+            "name": "Ïß²Ä2207",
+            "code": "wr2207",
+            "exchg": "SHFE",
+            "product": "wr",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "zn2108": {
+            "name": "»¦Ð¿2108",
+            "code": "zn2108",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 30
+        },
+        "zn2109": {
+            "name": "»¦Ð¿2109",
+            "code": "zn2109",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 30
+        },
+        "zn2110": {
+            "name": "»¦Ð¿2110",
+            "code": "zn2110",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 30
+        },
+        "zn2111": {
+            "name": "»¦Ð¿2111",
+            "code": "zn2111",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 30
+        },
+        "zn2112": {
+            "name": "»¦Ð¿2112",
+            "code": "zn2112",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 30
+        },
+        "zn2201": {
+            "name": "»¦Ð¿2201",
+            "code": "zn2201",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "zn2202": {
+            "name": "»¦Ð¿2202",
+            "code": "zn2202",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "zn2203": {
+            "name": "»¦Ð¿2203",
+            "code": "zn2203",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "zn2204": {
+            "name": "»¦Ð¿2204",
+            "code": "zn2204",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "zn2205": {
+            "name": "»¦Ð¿2205",
+            "code": "zn2205",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "zn2206": {
+            "name": "»¦Ð¿2206",
+            "code": "zn2206",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        },
+        "zn2207": {
+            "name": "»¦Ð¿2207",
+            "code": "zn2207",
+            "exchg": "SHFE",
+            "product": "zn",
+            "maxlimitqty": 500,
+            "maxmarketqty": 500
+        }
+    }
+}

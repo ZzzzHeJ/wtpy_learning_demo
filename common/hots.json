@@ -10600,4 +10600,4421 @@
 				"date": "20170808",
 				"from": "zn1709",
 				"newclose": 23845.0,
-			
+				"oldclse": 23860.0,
+				"to": "zn1710"
+			},
+			{
+				"date": "20170906",
+				"from": "zn1710",
+				"newclose": 25045.0,
+				"oldclse": 25200.0,
+				"to": "zn1711"
+			},
+			{
+				"date": "20171012",
+				"from": "zn1711",
+				"newclose": 26070.0,
+				"oldclse": 26415.0,
+				"to": "zn1712"
+			},
+			{
+				"date": "20171103",
+				"from": "zn1712",
+				"newclose": 25935.0,
+				"oldclse": 26025.0,
+				"to": "zn1801"
+			},
+			{
+				"date": "20171206",
+				"from": "zn1801",
+				"newclose": 24505.0,
+				"oldclse": 24660.0,
+				"to": "zn1802"
+			},
+			{
+				"date": "20180105",
+				"from": "zn1802",
+				"newclose": 26105.0,
+				"oldclse": 26080.0,
+				"to": "zn1803"
+			},
+			{
+				"date": "20180207",
+				"from": "zn1803",
+				"newclose": 26470.0,
+				"oldclse": 26480.0,
+				"to": "zn1804"
+			},
+			{
+				"date": "20180306",
+				"from": "zn1804",
+				"newclose": 25395.0,
+				"oldclse": 25450.0,
+				"to": "zn1805"
+			},
+			{
+				"date": "20180404",
+				"from": "zn1805",
+				"newclose": 24535.0,
+				"oldclse": 24620.0,
+				"to": "zn1806"
+			},
+			{
+				"date": "20180507",
+				"from": "zn1806",
+				"newclose": 23830.0,
+				"oldclse": 23910.0,
+				"to": "zn1807"
+			},
+			{
+				"date": "20180611",
+				"from": "zn1807",
+				"newclose": 24445.0,
+				"oldclse": 24580.0,
+				"to": "zn1808"
+			},
+			{
+				"date": "20180709",
+				"from": "zn1808",
+				"newclose": 21995.0,
+				"oldclse": 22205.0,
+				"to": "zn1809"
+			},
+			{
+				"date": "20180808",
+				"from": "zn1809",
+				"newclose": 21525.0,
+				"oldclse": 21710.0,
+				"to": "zn1810"
+			},
+			{
+				"date": "20180907",
+				"from": "zn1810",
+				"newclose": 20605.0,
+				"oldclse": 21115.0,
+				"to": "zn1811"
+			},
+			{
+				"date": "20181022",
+				"from": "zn1811",
+				"newclose": 22035.0,
+				"oldclse": 22455.0,
+				"to": "zn1812"
+			},
+			{
+				"date": "20181105",
+				"from": "zn1812",
+				"newclose": 20940.0,
+				"oldclse": 21365.0,
+				"to": "zn1901"
+			},
+			{
+				"date": "20181204",
+				"from": "zn1901",
+				"newclose": 20900.0,
+				"oldclse": 21250.0,
+				"to": "zn1902"
+			},
+			{
+				"date": "20190108",
+				"from": "zn1902",
+				"newclose": 20365.0,
+				"oldclse": 20620.0,
+				"to": "zn1903"
+			},
+			{
+				"date": "20190219",
+				"from": "zn1903",
+				"newclose": 21435.0,
+				"oldclse": 21545.0,
+				"to": "zn1904"
+			},
+			{
+				"date": "20190308",
+				"from": "zn1904",
+				"newclose": 21190.0,
+				"oldclse": 21590.0,
+				"to": "zn1905"
+			},
+			{
+				"date": "20190412",
+				"from": "zn1905",
+				"newclose": 22335.0,
+				"oldclse": 22525.0,
+				"to": "zn1906"
+			},
+			{
+				"date": "20190509",
+				"from": "zn1906",
+				"newclose": 20840.0,
+				"oldclse": 21090.0,
+				"to": "zn1907"
+			},
+			{
+				"date": "20190612",
+				"from": "zn1907",
+				"newclose": 20245.0,
+				"oldclse": 20615.0,
+				"to": "zn1908"
+			},
+			{
+				"date": "20190708",
+				"from": "zn1908",
+				"newclose": 19135.0,
+				"oldclse": 19235.0,
+				"to": "zn1909"
+			},
+			{
+				"date": "20190809",
+				"from": "zn1909",
+				"newclose": 18550.0,
+				"oldclse": 18680.0,
+				"to": "zn1910"
+			},
+			{
+				"date": "20190909",
+				"from": "zn1910",
+				"newclose": 19100.0,
+				"oldclse": 19115.0,
+				"to": "zn1911"
+			},
+			{
+				"date": "20191015",
+				"from": "zn1911",
+				"newclose": 19070.0,
+				"oldclse": 19055.0,
+				"to": "zn1912"
+			},
+			{
+				"date": "20191112",
+				"from": "zn1912",
+				"newclose": 18805.0,
+				"oldclse": 18810.0,
+				"to": "zn2001"
+			},
+			{
+				"date": "20191206",
+				"from": "zn2001",
+				"newclose": 17860.0,
+				"oldclse": 18025.0,
+				"to": "zn2002"
+			},
+			{
+				"date": "20200107",
+				"from": "zn2002",
+				"newclose": 18175.0,
+				"oldclse": 18190.0,
+				"to": "zn2003"
+			},
+			{
+				"date": "20200211",
+				"from": "zn2003",
+				"newclose": 17125.0,
+				"oldclse": 17100.0,
+				"to": "zn2004"
+			},
+			{
+				"date": "20200304",
+				"from": "zn2004",
+				"newclose": 16050.0,
+				"oldclse": 15995.0,
+				"to": "zn2005"
+			},
+			{
+				"date": "20200407",
+				"from": "zn2005",
+				"newclose": 15815.0,
+				"oldclse": 15845.0,
+				"to": "zn2006"
+			},
+			{
+				"date": "20200507",
+				"from": "zn2006",
+				"newclose": 16615.0,
+				"oldclse": 16680.0,
+				"to": "zn2007"
+			},
+			{
+				"date": "20200619",
+				"from": "zn2007",
+				"newclose": 16935.0,
+				"oldclse": 16985.0,
+				"to": "zn2008"
+			},
+			{
+				"date": "20200715",
+				"from": "zn2008",
+				"newclose": 17855.0,
+				"oldclse": 17880.0,
+				"to": "zn2009"
+			},
+			{
+				"date": "20200821",
+				"from": "zn2009",
+				"newclose": 20005.0,
+				"oldclse": 20060.0,
+				"to": "zn2010"
+			},
+			{
+				"date": "20200922",
+				"from": "zn2010",
+				"newclose": 19530.0,
+				"oldclse": 19770.0,
+				"to": "zn2011"
+			},
+			{
+				"date": "20201026",
+				"from": "zn2011",
+				"newclose": 19525.0,
+				"oldclse": 19615.0,
+				"to": "zn2012"
+			},
+			{
+				"date": "20201123",
+				"from": "zn2012",
+				"newclose": 21030.0,
+				"oldclse": 21070.0,
+				"to": "zn2101"
+			},
+			{
+				"date": "20201222",
+				"from": "zn2101",
+				"newclose": 21510.0,
+				"oldclse": 21520.0,
+				"to": "zn2102"
+			},
+			{
+				"date": "20210115",
+				"from": "zn2102",
+				"newclose": 20290.0,
+				"oldclse": 20310.0,
+				"to": "zn2103"
+			},
+			{
+				"date": "20210224",
+				"from": "zn2103",
+				"newclose": 21290.0,
+				"oldclse": 21315.0,
+				"to": "zn2104"
+			},
+			{
+				"date": "20210323",
+				"from": "zn2104",
+				"newclose": 21860.0,
+				"oldclse": 21855.0,
+				"to": "zn2105"
+			},
+			{
+				"date": "20210421",
+				"from": "zn2105",
+				"newclose": 21425.0,
+				"oldclse": 21445.0,
+				"to": "zn2106"
+			},
+			{
+				"date": "20210520",
+				"from": "zn2106",
+				"newclose": 22490.0,
+				"oldclse": 22520.0,
+				"to": "zn2107"
+			},
+			{
+				"date": "20210624",
+				"from": "zn2107",
+				"newclose": 21700.0,
+				"oldclse": 21690.0,
+				"to": "zn2108"
+			},
+			{
+				"date": "20210727",
+				"from": "zn2108",
+				"newclose": 22375.0,
+				"oldclse": 22335.0,
+				"to": "zn2109"
+			},
+			{
+				"date": "20210823",
+				"from": "zn2109",
+				"newclose": 22230.0,
+				"oldclse": 22240.0,
+				"to": "zn2110"
+			},
+			{
+				"date": "20210927",
+				"from": "zn2110",
+				"newclose": 23020.0,
+				"oldclse": 22960.0,
+				"to": "zn2111"
+			},
+			{
+				"date": "20211021",
+				"from": "zn2111",
+				"newclose": 25400.0,
+				"oldclse": 25365.0,
+				"to": "zn2112"
+			},
+			{
+				"date": "20211117",
+				"from": "zn2112",
+				"newclose": 22905.0,
+				"oldclse": 22905.0,
+				"to": "zn2201"
+			},
+			{
+				"date": "20211221",
+				"from": "zn2201",
+				"newclose": 23555.0,
+				"oldclse": 23490.0,
+				"to": "zn2202"
+			},
+			{
+				"date": "20220113",
+				"from": "zn2202",
+				"newclose": 24850.0,
+				"oldclse": 24810.0,
+				"to": "zn2203"
+			},
+			{
+				"date": "20220217",
+				"from": "zn2203",
+				"newclose": 24920.0,
+				"oldclse": 24905.0,
+				"to": "zn2204"
+			}
+		]
+	},
+	"CZCE": {
+		"AP": [
+			{
+				"date": "20180413",
+				"from": "AP805",
+				"newclose": 7163.0,
+				"oldclse": 7348.0,
+				"to": "AP810"
+			},
+			{
+				"date": "20180713",
+				"from": "AP810",
+				"newclose": 10163.0,
+				"oldclse": 9314.0,
+				"to": "AP901"
+			},
+			{
+				"date": "20181109",
+				"from": "AP901",
+				"newclose": 12411.0,
+				"oldclse": 11559.0,
+				"to": "AP905"
+			},
+			{
+				"date": "20190416",
+				"from": "AP905",
+				"newclose": 8010.0,
+				"oldclse": 11983.0,
+				"to": "AP910"
+			},
+			{
+				"date": "20190916",
+				"from": "AP910",
+				"newclose": 7957.0,
+				"oldclse": 8294.0,
+				"to": "AP001"
+			},
+			{
+				"date": "20191219",
+				"from": "AP001",
+				"newclose": 8110.0,
+				"oldclse": 8456.0,
+				"to": "AP005"
+			},
+			{
+				"date": "20200421",
+				"from": "AP005",
+				"newclose": 7789.0,
+				"oldclse": 6220.0,
+				"to": "AP010"
+			},
+			{
+				"date": "20200917",
+				"from": "AP010",
+				"newclose": 7372.0,
+				"oldclse": 6705.0,
+				"to": "AP101"
+			},
+			{
+				"date": "20201216",
+				"from": "AP101",
+				"newclose": 6543.0,
+				"oldclse": 6309.0,
+				"to": "AP105"
+			},
+			{
+				"date": "20210329",
+				"from": "AP105",
+				"newclose": 6090.0,
+				"oldclse": 5273.0,
+				"to": "AP110"
+			},
+			{
+				"date": "20210826",
+				"from": "AP110",
+				"newclose": 5871.0,
+				"oldclse": 6050.0,
+				"to": "AP201"
+			},
+			{
+				"date": "20211217",
+				"from": "AP201",
+				"newclose": 8355.0,
+				"oldclse": 7928.0,
+				"to": "AP205"
+			}
+		],
+		"CF": [
+			{
+				"date": "20100113",
+				"from": "CF005",
+				"newclose": 16425.0,
+				"oldclse": 15755.0,
+				"to": "CF009"
+			},
+			{
+				"date": "20100430",
+				"from": "CF009",
+				"newclose": 16935.0,
+				"oldclse": 17295.0,
+				"to": "CF101"
+			},
+			{
+				"date": "20100907",
+				"from": "CF101",
+				"newclose": 18965.0,
+				"oldclse": 18680.0,
+				"to": "CF105"
+			},
+			{
+				"date": "20101129",
+				"from": "CF105",
+				"newclose": 25240.0,
+				"oldclse": 25130.0,
+				"to": "CF109"
+			},
+			{
+				"date": "20110615",
+				"from": "CF109",
+				"newclose": 24185.0,
+				"oldclse": 25670.0,
+				"to": "CF201"
+			},
+			{
+				"date": "20110816",
+				"from": "CF201",
+				"newclose": 21135.0,
+				"oldclse": 20680.0,
+				"to": "CF205"
+			},
+			{
+				"date": "20120209",
+				"from": "CF205",
+				"newclose": 22315.0,
+				"oldclse": 21635.0,
+				"to": "CF209"
+			},
+			{
+				"date": "20120605",
+				"from": "CF209",
+				"newclose": 18805.0,
+				"oldclse": 17905.0,
+				"to": "CF301"
+			},
+			{
+				"date": "20121107",
+				"from": "CF301",
+				"newclose": 19145.0,
+				"oldclse": 19560.0,
+				"to": "CF305"
+			},
+			{
+				"date": "20130131",
+				"from": "CF305",
+				"newclose": 20275.0,
+				"oldclse": 20320.0,
+				"to": "CF309"
+			},
+			{
+				"date": "20130617",
+				"from": "CF309",
+				"newclose": 19885.0,
+				"oldclse": 20225.0,
+				"to": "CF401"
+			},
+			{
+				"date": "20131015",
+				"from": "CF401",
+				"newclose": 18975.0,
+				"oldclse": 20000.0,
+				"to": "CF405"
+			},
+			{
+				"date": "20140319",
+				"from": "CF405",
+				"newclose": 16180.0,
+				"oldclse": 18970.0,
+				"to": "CF501"
+			},
+			{
+				"date": "20141113",
+				"from": "CF501",
+				"newclose": 13220.0,
+				"oldclse": 13360.0,
+				"to": "CF505"
+			},
+			{
+				"date": "20150323",
+				"from": "CF505",
+				"newclose": 13310.0,
+				"oldclse": 12990.0,
+				"to": "CF509"
+			},
+			{
+				"date": "20150703",
+				"from": "CF509",
+				"newclose": 13315.0,
+				"oldclse": 12865.0,
+				"to": "CF601"
+			},
+			{
+				"date": "20151023",
+				"from": "CF601",
+				"newclose": 11740.0,
+				"oldclse": 12050.0,
+				"to": "CF605"
+			},
+			{
+				"date": "20160205",
+				"from": "CF605",
+				"newclose": 10565.0,
+				"oldclse": 11265.0,
+				"to": "CF609"
+			},
+			{
+				"date": "20160622",
+				"from": "CF609",
+				"newclose": 13345.0,
+				"oldclse": 13210.0,
+				"to": "CF701"
+			},
+			{
+				"date": "20161123",
+				"from": "CF701",
+				"newclose": 16160.0,
+				"oldclse": 16090.0,
+				"to": "CF705"
+			},
+			{
+				"date": "20170405",
+				"from": "CF705",
+				"newclose": 15430.0,
+				"oldclse": 14910.0,
+				"to": "CF709"
+			},
+			{
+				"date": "20170804",
+				"from": "CF709",
+				"newclose": 15120.0,
+				"oldclse": 15090.0,
+				"to": "CF801"
+			},
+			{
+				"date": "20171129",
+				"from": "CF801",
+				"newclose": 15140.0,
+				"oldclse": 15005.0,
+				"to": "CF805"
+			},
+			{
+				"date": "20180327",
+				"from": "CF805",
+				"newclose": 15480.0,
+				"oldclse": 14985.0,
+				"to": "CF809"
+			},
+			{
+				"date": "20180515",
+				"from": "CF809",
+				"newclose": 16380.0,
+				"oldclse": 15670.0,
+				"to": "CF901"
+			},
+			{
+				"date": "20181122",
+				"from": "CF901",
+				"newclose": 15235.0,
+				"oldclse": 14620.0,
+				"to": "CF905"
+			},
+			{
+				"date": "20190404",
+				"from": "CF905",
+				"newclose": 15630.0,
+				"oldclse": 15160.0,
+				"to": "CF909"
+			},
+			{
+				"date": "20190809",
+				"from": "CF909",
+				"newclose": 12720.0,
+				"oldclse": 12175.0,
+				"to": "CF001"
+			},
+			{
+				"date": "20191127",
+				"from": "CF001",
+				"newclose": 13315.0,
+				"oldclse": 12830.0,
+				"to": "CF005"
+			},
+			{
+				"date": "20200402",
+				"from": "CF005",
+				"newclose": 10895.0,
+				"oldclse": 10485.0,
+				"to": "CF009"
+			},
+			{
+				"date": "20200811",
+				"from": "CF009",
+				"newclose": 12755.0,
+				"oldclse": 12170.0,
+				"to": "CF101"
+			},
+			{
+				"date": "20201207",
+				"from": "CF101",
+				"newclose": 14660.0,
+				"oldclse": 14570.0,
+				"to": "CF105"
+			},
+			{
+				"date": "20210408",
+				"from": "CF105",
+				"newclose": 15120.0,
+				"oldclse": 14880.0,
+				"to": "CF109"
+			},
+			{
+				"date": "20210809",
+				"from": "CF109",
+				"newclose": 17725.0,
+				"oldclse": 17425.0,
+				"to": "CF201"
+			},
+			{
+				"date": "20211207",
+				"from": "CF201",
+				"newclose": 19760.0,
+				"oldclse": 20780.0,
+				"to": "CF205"
+			}
+		],
+		"CJ": [
+			{
+				"date": "20191107",
+				"from": "CJ912",
+				"newclose": 10880.0,
+				"oldclse": 10855.0,
+				"to": "CJ001"
+			},
+			{
+				"date": "20191204",
+				"from": "CJ001",
+				"newclose": 10885.0,
+				"oldclse": 10910.0,
+				"to": "CJ005"
+			},
+			{
+				"date": "20200407",
+				"from": "CJ005",
+				"newclose": 10220.0,
+				"oldclse": 9975.0,
+				"to": "CJ009"
+			},
+			{
+				"date": "20200819",
+				"from": "CJ009",
+				"newclose": 9825.0,
+				"oldclse": 9070.0,
+				"to": "CJ101"
+			},
+			{
+				"date": "20201221",
+				"from": "CJ101",
+				"newclose": 9870.0,
+				"oldclse": 9930.0,
+				"to": "CJ105"
+			},
+			{
+				"date": "20210408",
+				"from": "CJ105",
+				"newclose": 10280.0,
+				"oldclse": 9855.0,
+				"to": "CJ109"
+			},
+			{
+				"date": "20210727",
+				"from": "CJ109",
+				"newclose": 13290.0,
+				"oldclse": 9130.0,
+				"to": "CJ201"
+			},
+			{
+				"date": "20211122",
+				"from": "CJ201",
+				"newclose": 17670.0,
+				"oldclse": 15960.0,
+				"to": "CJ205"
+			}
+		],
+		"CY": [
+			{
+				"date": "20171220",
+				"from": "CY801",
+				"newclose": 23180.0,
+				"oldclse": 23115.0,
+				"to": "CY805"
+			},
+			{
+				"date": "20180226",
+				"from": "CY805",
+				"newclose": 23200.0,
+				"oldclse": 23070.0,
+				"to": "CY809"
+			},
+			{
+				"date": "20180510",
+				"from": "CY809",
+				"newclose": 23780.0,
+				"oldclse": 23305.0,
+				"to": "CY810"
+			},
+			{
+				"date": "20181009",
+				"from": "CY810",
+				"newclose": 24670.0,
+				"oldclse": 24360.0,
+				"to": "CY901"
+			},
+			{
+				"date": "20190103",
+				"from": "CY901",
+				"newclose": 23870.0,
+				"oldclse": 22655.0,
+				"to": "CY905"
+			},
+			{
+				"date": "20190417",
+				"from": "CY905",
+				"newclose": 24420.0,
+				"oldclse": 24080.0,
+				"to": "CY001"
+			},
+			{
+				"date": "20191205",
+				"from": "CY001",
+				"newclose": 21025.0,
+				"oldclse": 20725.0,
+				"to": "CY005"
+			},
+			{
+				"date": "20200409",
+				"from": "CY005",
+				"newclose": 19090.0,
+				"oldclse": 18815.0,
+				"to": "CY009"
+			},
+			{
+				"date": "20200810",
+				"from": "CY009",
+				"newclose": 19910.0,
+				"oldclse": 18680.0,
+				"to": "CY101"
+			},
+			{
+				"date": "20201209",
+				"from": "CY101",
+				"newclose": 21475.0,
+				"oldclse": 20230.0,
+				"to": "CY105"
+			},
+			{
+				"date": "20210412",
+				"from": "CY105",
+				"newclose": 22290.0,
+				"oldclse": 22360.0,
+				"to": "CY109"
+			},
+			{
+				"date": "20210810",
+				"from": "CY109",
+				"newclose": 26735.0,
+				"oldclse": 27080.0,
+				"to": "CY201"
+			},
+			{
+				"date": "20211224",
+				"from": "CY201",
+				"newclose": 26935.0,
+				"oldclse": 26895.0,
+				"to": "CY205"
+			}
+		],
+		"FG": [
+			{
+				"date": "20130131",
+				"from": "FG305",
+				"newclose": 1585.0,
+				"oldclse": 1474.0,
+				"to": "FG309"
+			},
+			{
+				"date": "20130624",
+				"from": "FG309",
+				"newclose": 1368.0,
+				"oldclse": 1368.0,
+				"to": "FG401"
+			},
+			{
+				"date": "20131031",
+				"from": "FG401",
+				"newclose": 1327.0,
+				"oldclse": 1316.0,
+				"to": "FG405"
+			},
+			{
+				"date": "20140319",
+				"from": "FG405",
+				"newclose": 1273.0,
+				"oldclse": 1216.0,
+				"to": "FG409"
+			},
+			{
+				"date": "20140711",
+				"from": "FG409",
+				"newclose": 984.0,
+				"oldclse": 1031.0,
+				"to": "FG501"
+			},
+			{
+				"date": "20141117",
+				"from": "FG501",
+				"newclose": 885.0,
+				"oldclse": 1039.0,
+				"to": "FG506"
+			},
+			{
+				"date": "20150409",
+				"from": "FG506",
+				"newclose": 870.0,
+				"oldclse": 903.0,
+				"to": "FG509"
+			},
+			{
+				"date": "20150811",
+				"from": "FG509",
+				"newclose": 892.0,
+				"oldclse": 902.0,
+				"to": "FG601"
+			},
+			{
+				"date": "20151203",
+				"from": "FG601",
+				"newclose": 822.0,
+				"oldclse": 876.0,
+				"to": "FG605"
+			},
+			{
+				"date": "20160408",
+				"from": "FG605",
+				"newclose": 966.0,
+				"oldclse": 920.0,
+				"to": "FG609"
+			},
+			{
+				"date": "20160815",
+				"from": "FG609",
+				"newclose": 1173.0,
+				"oldclse": 1141.0,
+				"to": "FG701"
+			},
+			{
+				"date": "20161206",
+				"from": "FG701",
+				"newclose": 1204.0,
+				"oldclse": 1222.0,
+				"to": "FG705"
+			},
+			{
+				"date": "20170412",
+				"from": "FG705",
+				"newclose": 1221.0,
+				"oldclse": 1250.0,
+				"to": "FG709"
+			},
+			{
+				"date": "20170811",
+				"from": "FG709",
+				"newclose": 1407.0,
+				"oldclse": 1400.0,
+				"to": "FG801"
+			},
+			{
+				"date": "20171130",
+				"from": "FG801",
+				"newclose": 1445.0,
+				"oldclse": 1476.0,
+				"to": "FG805"
+			},
+			{
+				"date": "20180411",
+				"from": "FG805",
+				"newclose": 1351.0,
+				"oldclse": 1408.0,
+				"to": "FG809"
+			},
+			{
+				"date": "20180810",
+				"from": "FG809",
+				"newclose": 1430.0,
+				"oldclse": 1464.0,
+				"to": "FG901"
+			},
+			{
+				"date": "20181214",
+				"from": "FG901",
+				"newclose": 1297.0,
+				"oldclse": 1298.0,
+				"to": "FG905"
+			},
+			{
+				"date": "20190415",
+				"from": "FG905",
+				"newclose": 1330.0,
+				"oldclse": 1285.0,
+				"to": "FG909"
+			},
+			{
+				"date": "20190812",
+				"from": "FG909",
+				"newclose": 1412.0,
+				"oldclse": 1492.0,
+				"to": "FG001"
+			},
+			{
+				"date": "20191211",
+				"from": "FG001",
+				"newclose": 1462.0,
+				"oldclse": 1470.0,
+				"to": "FG005"
+			},
+			{
+				"date": "20200401",
+				"from": "FG005",
+				"newclose": 1274.0,
+				"oldclse": 1269.0,
+				"to": "FG009"
+			},
+			{
+				"date": "20200803",
+				"from": "FG009",
+				"newclose": 1710.0,
+				"oldclse": 1753.0,
+				"to": "FG101"
+			},
+			{
+				"date": "20201214",
+				"from": "FG101",
+				"newclose": 1886.0,
+				"oldclse": 1995.0,
+				"to": "FG105"
+			},
+			{
+				"date": "20210408",
+				"from": "FG105",
+				"newclose": 2157.0,
+				"oldclse": 2124.0,
+				"to": "FG109"
+			},
+			{
+				"date": "20210727",
+				"from": "FG109",
+				"newclose": 2797.0,
+				"oldclse": 2876.0,
+				"to": "FG201"
+			},
+			{
+				"date": "20211213",
+				"from": "FG201",
+				"newclose": 1829.0,
+				"oldclse": 1799.0,
+				"to": "FG205"
+			}
+		],
+		"JR": [
+			{
+				"date": "20140506",
+				"from": "JR405",
+				"newclose": 3185.0,
+				"oldclse": 3432.0,
+				"to": "JR409"
+			},
+			{
+				"date": "20140808",
+				"from": "JR409",
+				"newclose": 3203.0,
+				"oldclse": 3202.0,
+				"to": "JR501"
+			},
+			{
+				"date": "20150106",
+				"from": "JR501",
+				"newclose": 3190.0,
+				"oldclse": 3004.0,
+				"to": "JR503"
+			},
+			{
+				"date": "20150302",
+				"from": "JR503",
+				"newclose": 3063.0,
+				"oldclse": 3085.0,
+				"to": "JR505"
+			},
+			{
+				"date": "20150319",
+				"from": "JR505",
+				"newclose": 2999.0,
+				"oldclse": 3020.0,
+				"to": "JR509"
+			},
+			{
+				"date": "20150730",
+				"from": "JR509",
+				"newclose": 3174.0,
+				"oldclse": 3100.0,
+				"to": "JR511"
+			},
+			{
+				"date": "20151102",
+				"from": "JR511",
+				"newclose": 2981.0,
+				"oldclse": 3060.0,
+				"to": "JR601"
+			},
+			{
+				"date": "20160105",
+				"from": "JR601",
+				"newclose": 2980.0,
+				"oldclse": 2981.0,
+				"to": "JR603"
+			},
+			{
+				"date": "20160225",
+				"from": "JR603",
+				"newclose": 2890.0,
+				"oldclse": 2980.0,
+				"to": "JR607"
+			},
+			{
+				"date": "20160701",
+				"from": "JR607",
+				"newclose": 3109.0,
+				"oldclse": 3221.0,
+				"to": "JR609"
+			},
+			{
+				"date": "20160707",
+				"from": "JR609",
+				"newclose": 3050.0,
+				"oldclse": 3288.0,
+				"to": "JR701"
+			},
+			{
+				"date": "20161125",
+				"from": "JR701",
+				"newclose": 3482.0,
+				"oldclse": 3315.0,
+				"to": "JR705"
+			},
+			{
+				"date": "20161208",
+				"from": "JR705",
+				"newclose": 3304.0,
+				"oldclse": 3416.0,
+				"to": "JR711"
+			},
+			{
+				"date": "20170922",
+				"from": "JR711",
+				"newclose": 3262.0,
+				"oldclse": 3124.0,
+				"to": "JR805"
+			},
+			{
+				"date": "20171017",
+				"from": "JR805",
+				"newclose": 3089.0,
+				"oldclse": 3188.0,
+				"to": "JR807"
+			},
+			{
+				"date": "20180622",
+				"from": "JR807",
+				"newclose": 3242.0,
+				"oldclse": 3166.0,
+				"to": "JR809"
+			},
+			{
+				"date": "20180724",
+				"from": "JR809",
+				"newclose": 3145.0,
+				"oldclse": 3088.0,
+				"to": "JR907"
+			},
+			{
+				"date": "20190701",
+				"from": "JR907",
+				"newclose": 3068.0,
+				"oldclse": 2952.0,
+				"to": "JR909"
+			},
+			{
+				"date": "20190826",
+				"from": "JR909",
+				"newclose": 2900.0,
+				"oldclse": 3308.0,
+				"to": "JR001"
+			},
+			{
+				"date": "20200103",
+				"from": "JR001",
+				"newclose": 2782.0,
+				"oldclse": 2801.0,
+				"to": "JR003"
+			},
+			{
+				"date": "20200213",
+				"from": "JR003",
+				"newclose": 3116.0,
+				"oldclse": 2777.0,
+				"to": "JR011"
+			},
+			{
+				"date": "20200826",
+				"from": "JR011",
+				"newclose": 2779.0,
+				"oldclse": 2763.0,
+				"to": "JR101"
+			},
+			{
+				"date": "20210105",
+				"from": "JR101",
+				"newclose": 2800.0,
+				"oldclse": 2583.0,
+				"to": "JR105"
+			},
+			{
+				"date": "20210507",
+				"from": "JR105",
+				"newclose": 2749.0,
+				"oldclse": 2405.0,
+				"to": "JR109"
+			},
+			{
+				"date": "20210901",
+				"from": "JR109",
+				"newclose": 2639.0,
+				"oldclse": 2389.0,
+				"to": "JR111"
+			},
+			{
+				"date": "20211029",
+				"from": "JR111",
+				"newclose": 2700.0,
+				"oldclse": 2897.0,
+				"to": "JR201"
+			},
+			{
+				"date": "20220105",
+				"from": "JR201",
+				"newclose": 2709.0,
+				"oldclse": 2740.0,
+				"to": "JR203"
+			},
+			{
+				"date": "20220301",
+				"from": "JR203",
+				"newclose": 2689.0,
+				"oldclse": 2709.0,
+				"to": "JR205"
+			}
+		],
+		"LR": [
+			{
+				"date": "20150106",
+				"from": "LR501",
+				"newclose": 2833.0,
+				"oldclse": 2890.0,
+				"to": "LR505"
+			},
+			{
+				"date": "20150505",
+				"from": "LR505",
+				"newclose": 2544.0,
+				"oldclse": 2588.0,
+				"to": "LR507"
+			},
+			{
+				"date": "20150701",
+				"from": "LR507",
+				"newclose": 2644.0,
+				"oldclse": 2572.0,
+				"to": "LR509"
+			},
+			{
+				"date": "20150703",
+				"from": "LR509",
+				"newclose": 2459.0,
+				"oldclse": 2644.0,
+				"to": "LR601"
+			},
+			{
+				"date": "20150713",
+				"from": "LR601",
+				"newclose": 2460.0,
+				"oldclse": 2489.0,
+				"to": "LR605"
+			},
+			{
+				"date": "20151224",
+				"from": "LR605",
+				"newclose": 2450.0,
+				"oldclse": 2465.0,
+				"to": "LR609"
+			},
+			{
+				"date": "20160901",
+				"from": "LR609",
+				"newclose": 2681.0,
+				"oldclse": 2622.0,
+				"to": "LR611"
+			},
+			{
+				"date": "20161101",
+				"from": "LR611",
+				"newclose": 2864.0,
+				"oldclse": 2779.0,
+				"to": "LR701"
+			},
+			{
+				"date": "20161116",
+				"from": "LR701",
+				"newclose": 2851.0,
+				"oldclse": 2950.0,
+				"to": "LR705"
+			},
+			{
+				"date": "20170207",
+				"from": "LR705",
+				"newclose": 2917.0,
+				"oldclse": 3044.0,
+				"to": "LR711"
+			},
+			{
+				"date": "20170717",
+				"from": "LR711",
+				"newclose": 2903.0,
+				"oldclse": 2862.0,
+				"to": "LR805"
+			},
+			{
+				"date": "20180503",
+				"from": "LR805",
+				"newclose": 3391.0,
+				"oldclse": 3103.0,
+				"to": "LR807"
+			},
+			{
+				"date": "20180507",
+				"from": "LR807",
+				"newclose": 3200.0,
+				"oldclse": 3191.0,
+				"to": "LR903"
+			},
+			{
+				"date": "20190301",
+				"from": "LR903",
+				"newclose": 2586.0,
+				"oldclse": 2660.0,
+				"to": "LR905"
+			},
+			{
+				"date": "20190507",
+				"from": "LR905",
+				"newclose": 2565.0,
+				"oldclse": 2415.0,
+				"to": "LR911"
+			},
+			{
+				"date": "20191009",
+				"from": "LR911",
+				"newclose": 2720.0,
+				"oldclse": 2750.0,
+				"to": "LR007"
+			}
+		],
+		"MA": [
+			{
+				"date": "20150420",
+				"from": "MA506",
+				"newclose": 2588.0,
+				"oldclse": 2578.0,
+				"to": "MA509"
+			},
+			{
+				"date": "20150728",
+				"from": "MA509",
+				"newclose": 2171.0,
+				"oldclse": 2156.0,
+				"to": "MA601"
+			},
+			{
+				"date": "20151201",
+				"from": "MA601",
+				"newclose": 1687.0,
+				"oldclse": 1809.0,
+				"to": "MA605"
+			},
+			{
+				"date": "20160411",
+				"from": "MA605",
+				"newclose": 1863.0,
+				"oldclse": 1811.0,
+				"to": "MA609"
+			},
+			{
+				"date": "20160810",
+				"from": "MA609",
+				"newclose": 2023.0,
+				"oldclse": 1905.0,
+				"to": "MA701"
+			},
+			{
+				"date": "20161205",
+				"from": "MA701",
+				"newclose": 2660.0,
+				"oldclse": 2659.0,
+				"to": "MA705"
+			},
+			{
+				"date": "20170410",
+				"from": "MA705",
+				"newclose": 2533.0,
+				"oldclse": 2645.0,
+				"to": "MA709"
+			},
+			{
+				"date": "20170808",
+				"from": "MA709",
+				"newclose": 2670.0,
+				"oldclse": 2519.0,
+				"to": "MA801"
+			},
+			{
+				"date": "20171212",
+				"from": "MA801",
+				"newclose": 2958.0,
+				"oldclse": 3172.0,
+				"to": "MA805"
+			},
+			{
+				"date": "20180413",
+				"from": "MA805",
+				"newclose": 2658.0,
+				"oldclse": 2781.0,
+				"to": "MA809"
+			},
+			{
+				"date": "20180810",
+				"from": "MA809",
+				"newclose": 3245.0,
+				"oldclse": 3100.0,
+				"to": "MA901"
+			},
+			{
+				"date": "20181213",
+				"from": "MA901",
+				"newclose": 2459.0,
+				"oldclse": 2420.0,
+				"to": "MA905"
+			},
+			{
+				"date": "20190415",
+				"from": "MA905",
+				"newclose": 2497.0,
+				"oldclse": 2430.0,
+				"to": "MA909"
+			},
+			{
+				"date": "20190819",
+				"from": "MA909",
+				"newclose": 2211.0,
+				"oldclse": 2092.0,
+				"to": "MA001"
+			},
+			{
+				"date": "20191216",
+				"from": "MA001",
+				"newclose": 2125.0,
+				"oldclse": 2011.0,
+				"to": "MA005"
+			},
+			{
+				"date": "20200414",
+				"from": "MA005",
+				"newclose": 1764.0,
+				"oldclse": 1693.0,
+				"to": "MA009"
+			},
+			{
+				"date": "20200817",
+				"from": "MA009",
+				"newclose": 1904.0,
+				"oldclse": 1744.0,
+				"to": "MA101"
+			},
+			{
+				"date": "20201214",
+				"from": "MA101",
+				"newclose": 2475.0,
+				"oldclse": 2394.0,
+				"to": "MA105"
+			},
+			{
+				"date": "20210415",
+				"from": "MA105",
+				"newclose": 2413.0,
+				"oldclse": 2478.0,
+				"to": "MA109"
+			},
+			{
+				"date": "20210816",
+				"from": "MA109",
+				"newclose": 2847.0,
+				"oldclse": 2682.0,
+				"to": "MA201"
+			},
+			{
+				"date": "20211216",
+				"from": "MA201",
+				"newclose": 2647.0,
+				"oldclse": 2710.0,
+				"to": "MA205"
+			}
+		],
+		"OI": [
+			{
+				"date": "20120921",
+				"from": "OI307",
+				"newclose": 10430.0,
+				"oldclse": 10104.0,
+				"to": "OI309"
+			},
+			{
+				"date": "20130613",
+				"from": "OI309",
+				"newclose": 8688.0,
+				"oldclse": 9164.0,
+				"to": "OI401"
+			},
+			{
+				"date": "20131023",
+				"from": "OI401",
+				"newclose": 7396.0,
+				"oldclse": 7456.0,
+				"to": "OI405"
+			},
+			{
+				"date": "20140207",
+				"from": "OI405",
+				"newclose": 6942.0,
+				"oldclse": 7032.0,
+				"to": "OI409"
+			},
+			{
+				"date": "20140609",
+				"from": "OI409",
+				"newclose": 6976.0,
+				"oldclse": 6960.0,
+				"to": "OI501"
+			},
+			{
+				"date": "20141117",
+				"from": "OI501",
+				"newclose": 6134.0,
+				"oldclse": 6100.0,
+				"to": "OI505"
+			},
+			{
+				"date": "20150311",
+				"from": "OI505",
+				"newclose": 5888.0,
+				"oldclse": 5888.0,
+				"to": "OI509"
+			},
+			{
+				"date": "20150615",
+				"from": "OI509",
+				"newclose": 6028.0,
+				"oldclse": 5940.0,
+				"to": "OI601"
+			},
+			{
+				"date": "20151111",
+				"from": "OI601",
+				"newclose": 5530.0,
+				"oldclse": 5738.0,
+				"to": "OI605"
+			},
+			{
+				"date": "20160309",
+				"from": "OI605",
+				"newclose": 5660.0,
+				"oldclse": 5546.0,
+				"to": "OI609"
+			},
+			{
+				"date": "20160705",
+				"from": "OI609",
+				"newclose": 6666.0,
+				"oldclse": 6494.0,
+				"to": "OI701"
+			},
+			{
+				"date": "20161123",
+				"from": "OI701",
+				"newclose": 7072.0,
+				"oldclse": 6894.0,
+				"to": "OI705"
+			},
+			{
+				"date": "20170316",
+				"from": "OI705",
+				"newclose": 6750.0,
+				"oldclse": 6454.0,
+				"to": "OI709"
+			},
+			{
+				"date": "20170706",
+				"from": "OI709",
+				"newclose": 6574.0,
+				"oldclse": 6410.0,
+				"to": "OI801"
+			},
+			{
+				"date": "20171120",
+				"from": "OI801",
+				"newclose": 6854.0,
+				"oldclse": 6670.0,
+				"to": "OI805"
+			},
+			{
+				"date": "20180322",
+				"from": "OI805",
+				"newclose": 6558.0,
+				"oldclse": 6376.0,
+				"to": "OI809"
+			},
+			{
+				"date": "20180703",
+				"from": "OI809",
+				"newclose": 6666.0,
+				"oldclse": 6485.0,
+				"to": "OI901"
+			},
+			{
+				"date": "20181205",
+				"from": "OI901",
+				"newclose": 6601.0,
+				"oldclse": 6430.0,
+				"to": "OI905"
+			},
+			{
+				"date": "20190403",
+				"from": "OI905",
+				"newclose": 7058.0,
+				"oldclse": 7042.0,
+				"to": "OI909"
+			},
+			{
+				"date": "20190801",
+				"from": "OI909",
+				"newclose": 6990.0,
+				"oldclse": 6948.0,
+				"to": "OI001"
+			},
+			{
+				"date": "20191211",
+				"from": "OI001",
+				"newclose": 7346.0,
+				"oldclse": 7555.0,
+				"to": "OI005"
+			},
+			{
+				"date": "20200401",
+				"from": "OI005",
+				"newclose": 6563.0,
+				"oldclse": 6750.0,
+				"to": "OI009"
+			},
+			{
+				"date": "20200812",
+				"from": "OI009",
+				"newclose": 8382.0,
+				"oldclse": 8779.0,
+				"to": "OI101"
+			},
+			{
+				"date": "20201208",
+				"from": "OI101",
+				"newclose": 9100.0,
+				"oldclse": 9542.0,
+				"to": "OI105"
+			},
+			{
+				"date": "20210406",
+				"from": "OI105",
+				"newclose": 10222.0,
+				"oldclse": 10588.0,
+				"to": "OI109"
+			},
+			{
+				"date": "20210806",
+				"from": "OI109",
+				"newclose": 10261.0,
+				"oldclse": 10218.0,
+				"to": "OI201"
+			},
+			{
+				"date": "20211210",
+				"from": "OI201",
+				"newclose": 12178.0,
+				"oldclse": 12632.0,
+				"to": "OI205"
+			}
+		],
+		"PF": [
+			{
+				"date": "20210416",
+				"from": "PF105",
+				"newclose": 7234.0,
+				"oldclse": 6986.0,
+				"to": "PF107"
+			},
+			{
+				"date": "20210427",
+				"from": "PF107",
+				"newclose": 7106.0,
+				"oldclse": 7016.0,
+				"to": "PF109"
+			},
+			{
+				"date": "20210820",
+				"from": "PF109",
+				"newclose": 7034.0,
+				"oldclse": 6896.0,
+				"to": "PF201"
+			},
+			{
+				"date": "20211215",
+				"from": "PF201",
+				"newclose": 6738.0,
+				"oldclse": 6814.0,
+				"to": "PF205"
+			}
+		],
+		"PK": [
+			{
+				"date": "20210906",
+				"from": "PK110",
+				"newclose": 8672.0,
+				"oldclse": 8660.0,
+				"to": "PK201"
+			},
+			{
+				"date": "20211215",
+				"from": "PK201",
+				"newclose": 8250.0,
+				"oldclse": 8156.0,
+				"to": "PK204"
+			}
+		],
+		"PM": [
+			{
+				"date": "20121206",
+				"from": "PM301",
+				"newclose": 2389.0,
+				"oldclse": 2327.0,
+				"to": "PM305"
+			},
+			{
+				"date": "20121211",
+				"from": "PM305",
+				"newclose": 2460.0,
+				"oldclse": 2389.0,
+				"to": "PM309"
+			},
+			{
+				"date": "20130902",
+				"from": "PM309",
+				"newclose": 2536.0,
+				"oldclse": 2437.0,
+				"to": "PM401"
+			},
+			{
+				"date": "20140103",
+				"from": "PM401",
+				"newclose": 2531.0,
+				"oldclse": 2620.0,
+				"to": "PM409"
+			},
+			{
+				"date": "20140730",
+				"from": "PM409",
+				"newclose": 2430.0,
+				"oldclse": 2516.0,
+				"to": "PM507"
+			},
+			{
+				"date": "20150107",
+				"from": "PM507",
+				"newclose": 2509.0,
+				"oldclse": 2494.0,
+				"to": "PM509"
+			},
+			{
+				"date": "20150522",
+				"from": "PM509",
+				"newclose": 2398.0,
+				"oldclse": 2505.0,
+				"to": "PM511"
+			},
+			{
+				"date": "20150601",
+				"from": "PM511",
+				"newclose": 2740.0,
+				"oldclse": 2546.0,
+				"to": "PM605"
+			},
+			{
+				"date": "20160427",
+				"from": "PM605",
+				"newclose": 2512.0,
+				"oldclse": 2151.0,
+				"to": "PM607"
+			},
+			{
+				"date": "20160429",
+				"from": "PM607",
+				"newclose": 2416.0,
+				"oldclse": 2512.0,
+				"to": "PM611"
+			},
+			{
+				"date": "20160908",
+				"from": "PM611",
+				"newclose": 2270.0,
+				"oldclse": 2358.0,
+				"to": "PM701"
+			},
+			{
+				"date": "20170104",
+				"from": "PM701",
+				"newclose": 2545.0,
+				"oldclse": 2770.0,
+				"to": "PM705"
+			},
+			{
+				"date": "20170406",
+				"from": "PM705",
+				"newclose": 2604.0,
+				"oldclse": 2441.0,
+				"to": "PM709"
+			},
+			{
+				"date": "20170901",
+				"from": "PM709",
+				"newclose": 2765.0,
+				"oldclse": 2555.0,
+				"to": "PM711"
+			},
+			{
+				"date": "20171101",
+				"from": "PM711",
+				"newclose": 2543.0,
+				"oldclse": 2765.0,
+				"to": "PM801"
+			},
+			{
+				"date": "20171227",
+				"from": "PM801",
+				"newclose": 2664.0,
+				"oldclse": 2532.0,
+				"to": "PM805"
+			},
+			{
+				"date": "20180503",
+				"from": "PM805",
+				"newclose": 2560.0,
+				"oldclse": 2214.0,
+				"to": "PM807"
+			},
+			{
+				"date": "20180702",
+				"from": "PM807",
+				"newclose": 2480.0,
+				"oldclse": 2636.0,
+				"to": "PM809"
+			},
+			{
+				"date": "20180808",
+				"from": "PM809",
+				"newclose": 2437.0,
+				"oldclse": 2312.0,
+				"to": "PM901"
+			},
+			{
+				"date": "20181123",
+				"from": "PM901",
+				"newclose": 2281.0,
+				"oldclse": 2400.0,
+				"to": "PM907"
+			},
+			{
+				"date": "20190701",
+				"from": "PM907",
+				"newclose": 2131.0,
+				"oldclse": 2131.0,
+				"to": "PM909"
+			},
+			{
+				"date": "20190828",
+				"from": "PM909",
+				"newclose": 2305.0,
+				"oldclse": 2294.0,
+				"to": "PM007"
+			},
+			{
+				"date": "20200701",
+				"from": "PM007",
+				"newclose": 2343.0,
+				"oldclse": 2180.0,
+				"to": "PM105"
+			},
+			{
+				"date": "20201022",
+				"from": "PM105",
+				"newclose": 2444.0,
+				"oldclse": 2530.0,
+				"to": "PM107"
+			},
+			{
+				"date": "20210701",
+				"from": "PM107",
+				"newclose": 2525.0,
+				"oldclse": 2490.0,
+				"to": "PM109"
+			},
+			{
+				"date": "20210901",
+				"from": "PM109",
+				"newclose": 2560.0,
+				"oldclse": 2432.0,
+				"to": "PM201"
+			},
+			{
+				"date": "20220105",
+				"from": "PM201",
+				"newclose": 2421.0,
+				"oldclse": 2422.0,
+				"to": "PM203"
+			},
+			{
+				"date": "20220301",
+				"from": "PM203",
+				"newclose": 2363.0,
+				"oldclse": 2421.0,
+				"to": "PM205"
+			}
+		],
+		"RI": [
+			{
+				"date": "20120925",
+				"from": "RI307",
+				"newclose": 2759.0,
+				"oldclse": 2830.0,
+				"to": "RI309"
+			},
+			{
+				"date": "20130724",
+				"from": "RI309",
+				"newclose": 2554.0,
+				"oldclse": 2586.0,
+				"to": "RI401"
+			},
+			{
+				"date": "20131105",
+				"from": "RI401",
+				"newclose": 2480.0,
+				"oldclse": 2476.0,
+				"to": "RI405"
+			},
+			{
+				"date": "20140424",
+				"from": "RI405",
+				"newclose": 2451.0,
+				"oldclse": 2203.0,
+				"to": "RI409"
+			},
+			{
+				"date": "20140828",
+				"from": "RI409",
+				"newclose": 2282.0,
+				"oldclse": 2196.0,
+				"to": "RI501"
+			},
+			{
+				"date": "20150106",
+				"from": "RI501",
+				"newclose": 2294.0,
+				"oldclse": 2220.0,
+				"to": "RI505"
+			},
+			{
+				"date": "20150323",
+				"from": "RI505",
+				"newclose": 2511.0,
+				"oldclse": 2311.0,
+				"to": "RI601"
+			},
+			{
+				"date": "20160105",
+				"from": "RI601",
+				"newclose": 2609.0,
+				"oldclse": 2797.0,
+				"to": "RI605"
+			},
+			{
+				"date": "20160122",
+				"from": "RI605",
+				"newclose": 2520.0,
+				"oldclse": 2609.0,
+				"to": "RI609"
+			},
+			{
+				"date": "20160615",
+				"from": "RI609",
+				"newclose": 2687.0,
+				"oldclse": 2701.0,
+				"to": "RI701"
+			},
+			{
+				"date": "20160922",
+				"from": "RI701",
+				"newclose": 2497.0,
+				"oldclse": 2704.0,
+				"to": "RI709"
+			},
+			{
+				"date": "20170901",
+				"from": "RI709",
+				"newclose": 2745.0,
+				"oldclse": 2707.0,
+				"to": "RI801"
+			},
+			{
+				"date": "20171110",
+				"from": "RI801",
+				"newclose": 2798.0,
+				"oldclse": 2750.0,
+				"to": "RI807"
+			},
+			{
+				"date": "20180330",
+				"from": "RI807",
+				"newclose": 2731.0,
+				"oldclse": 2700.0,
+				"to": "RI811"
+			},
+			{
+				"date": "20181101",
+				"from": "RI811",
+				"newclose": 2272.0,
+				"oldclse": 2384.0,
+				"to": "RI901"
+			},
+			{
+				"date": "20181115",
+				"from": "RI901",
+				"newclose": 2430.0,
+				"oldclse": 2198.0,
+				"to": "RI909"
+			},
+			{
+				"date": "20190903",
+				"from": "RI909",
+				"newclose": 2831.0,
+				"oldclse": 2723.0,
+				"to": "RI911"
+			},
+			{
+				"date": "20191025",
+				"from": "RI911",
+				"newclose": 2727.0,
+				"oldclse": 2788.0,
+				"to": "RI005"
+			},
+			{
+				"date": "20200507",
+				"from": "RI005",
+				"newclose": 2590.0,
+				"oldclse": 2631.0,
+				"to": "RI009"
+			},
+			{
+				"date": "20200901",
+				"from": "RI009",
+				"newclose": 2646.0,
+				"oldclse": 2737.0,
+				"to": "RI101"
+			},
+			{
+				"date": "20210105",
+				"from": "RI101",
+				"newclose": 2674.0,
+				"oldclse": 2656.0,
+				"to": "RI103"
+			},
+			{
+				"date": "20210301",
+				"from": "RI103",
+				"newclose": 2667.0,
+				"oldclse": 2582.0,
+				"to": "RI105"
+			},
+			{
+				"date": "20210507",
+				"from": "RI105",
+				"newclose": 2561.0,
+				"oldclse": 2645.0,
+				"to": "RI107"
+			},
+			{
+				"date": "20210701",
+				"from": "RI107",
+				"newclose": 2683.0,
+				"oldclse": 2561.0,
+				"to": "RI109"
+			},
+			{
+				"date": "20210810",
+				"from": "RI109",
+				"newclose": 2525.0,
+				"oldclse": 2525.0,
+				"to": "RI201"
+			},
+			{
+				"date": "20220105",
+				"from": "RI201",
+				"newclose": 2699.0,
+				"oldclse": 2718.0,
+				"to": "RI207"
+			}
+		],
+		"RM": [
+			{
+				"date": "20130219",
+				"from": "RM305",
+				"newclose": 2541.0,
+				"oldclse": 2632.0,
+				"to": "RM309"
+			},
+			{
+				"date": "20130528",
+				"from": "RM309",
+				"newclose": 2159.0,
+				"oldclse": 2394.0,
+				"to": "RM401"
+			},
+			{
+				"date": "20131113",
+				"from": "RM401",
+				"newclose": 2434.0,
+				"oldclse": 2420.0,
+				"to": "RM405"
+			},
+			{
+				"date": "20140130",
+				"from": "RM405",
+				"newclose": 2482.0,
+				"oldclse": 2612.0,
+				"to": "RM409"
+			},
+			{
+				"date": "20140725",
+				"from": "RM409",
+				"newclose": 2403.0,
+				"oldclse": 2755.0,
+				"to": "RM501"
+			},
+			{
+				"date": "20141113",
+				"from": "RM501",
+				"newclose": 2341.0,
+				"oldclse": 2302.0,
+				"to": "RM505"
+			},
+			{
+				"date": "20150304",
+				"from": "RM505",
+				"newclose": 2248.0,
+				"oldclse": 2368.0,
+				"to": "RM509"
+			},
+			{
+				"date": "20150727",
+				"from": "RM509",
+				"newclose": 2137.0,
+				"oldclse": 2218.0,
+				"to": "RM601"
+			},
+			{
+				"date": "20151202",
+				"from": "RM601",
+				"newclose": 1900.0,
+				"oldclse": 1836.0,
+				"to": "RM605"
+			},
+			{
+				"date": "20160315",
+				"from": "RM605",
+				"newclose": 1898.0,
+				"oldclse": 1887.0,
+				"to": "RM609"
+			},
+			{
+				"date": "20160808",
+				"from": "RM609",
+				"newclose": 2357.0,
+				"oldclse": 2495.0,
+				"to": "RM701"
+			},
+			{
+				"date": "20161129",
+				"from": "RM701",
+				"newclose": 2508.0,
+				"oldclse": 2447.0,
+				"to": "RM705"
+			},
+			{
+				"date": "20170321",
+				"from": "RM705",
+				"newclose": 2412.0,
+				"oldclse": 2399.0,
+				"to": "RM709"
+			},
+			{
+				"date": "20170803",
+				"from": "RM709",
+				"newclose": 2165.0,
+				"oldclse": 2279.0,
+				"to": "RM801"
+			},
+			{
+				"date": "20171207",
+				"from": "RM801",
+				"newclose": 2373.0,
+				"oldclse": 2330.0,
+				"to": "RM805"
+			},
+			{
+				"date": "20180328",
+				"from": "RM805",
+				"newclose": 2496.0,
+				"oldclse": 2489.0,
+				"to": "RM809"
+			},
+			{
+				"date": "20180727",
+				"from": "RM809",
+				"newclose": 2492.0,
+				"oldclse": 2508.0,
+				"to": "RM901"
+			},
+			{
+				"date": "20181128",
+				"from": "RM901",
+				"newclose": 2185.0,
+				"oldclse": 2198.0,
+				"to": "RM905"
+			},
+			{
+				"date": "20190402",
+				"from": "RM905",
+				"newclose": 2224.0,
+				"oldclse": 2194.0,
+				"to": "RM909"
+			},
+			{
+				"date": "20190809",
+				"from": "RM909",
+				"newclose": 2330.0,
+				"oldclse": 2491.0,
+				"to": "RM001"
+			},
+			{
+				"date": "20191205",
+				"from": "RM001",
+				"newclose": 2282.0,
+				"oldclse": 2229.0,
+				"to": "RM005"
+			},
+			{
+				"date": "20200320",
+				"from": "RM005",
+				"newclose": 2350.0,
+				"oldclse": 2361.0,
+				"to": "RM009"
+			},
+			{
+				"date": "20200807",
+				"from": "RM009",
+				"newclose": 2281.0,
+				"oldclse": 2327.0,
+				"to": "RM101"
+			},
+			{
+				"date": "20201126",
+				"from": "RM101",
+				"newclose": 2615.0,
+				"oldclse": 2554.0,
+				"to": "RM105"
+			},
+			{
+				"date": "20210408",
+				"from": "RM105",
+				"newclose": 2967.0,
+				"oldclse": 2961.0,
+				"to": "RM109"
+			},
+			{
+				"date": "20210813",
+				"from": "RM109",
+				"newclose": 2929.0,
+				"oldclse": 3025.0,
+				"to": "RM201"
+			},
+			{
+				"date": "20211209",
+				"from": "RM201",
+				"newclose": 2789.0,
+				"oldclse": 2798.0,
+				"to": "RM205"
+			}
+		],
+		"RS": [
+			{
+				"date": "20130902",
+				"from": "RS309",
+				"newclose": 5158.0,
+				"oldclse": 5116.0,
+				"to": "RS311"
+			},
+			{
+				"date": "20131016",
+				"from": "RS311",
+				"newclose": 5024.0,
+				"oldclse": 5149.0,
+				"to": "RS409"
+			},
+			{
+				"date": "20140902",
+				"from": "RS409",
+				"newclose": 4468.0,
+				"oldclse": 4902.0,
+				"to": "RS507"
+			},
+			{
+				"date": "20150529",
+				"from": "RS507",
+				"newclose": 4531.0,
+				"oldclse": 4455.0,
+				"to": "RS509"
+			},
+			{
+				"date": "20150907",
+				"from": "RS509",
+				"newclose": 4135.0,
+				"oldclse": 3645.0,
+				"to": "RS607"
+			},
+			{
+				"date": "20160701",
+				"from": "RS607",
+				"newclose": 4356.0,
+				"oldclse": 4287.0,
+				"to": "RS609"
+			},
+			{
+				"date": "20160901",
+				"from": "RS609",
+				"newclose": 4259.0,
+				"oldclse": 4272.0,
+				"to": "RS611"
+			},
+			{
+				"date": "20161101",
+				"from": "RS611",
+				"newclose": 4215.0,
+				"oldclse": 4259.0,
+				"to": "RS707"
+			},
+			{
+				"date": "20170703",
+				"from": "RS707",
+				"newclose": 5220.0,
+				"oldclse": 5339.0,
+				"to": "RS709"
+			},
+			{
+				"date": "20170901",
+				"from": "RS709",
+				"newclose": 4953.0,
+				"oldclse": 5444.0,
+				"to": "RS711"
+			},
+			{
+				"date": "20171010",
+				"from": "RS711",
+				"newclose": 5134.0,
+				"oldclse": 5424.0,
+				"to": "RS807"
+			},
+			{
+				"date": "20180131",
+				"from": "RS807",
+				"newclose": 5318.0,
+				"oldclse": 5285.0,
+				"to": "RS809"
+			},
+			{
+				"date": "20180831",
+				"from": "RS809",
+				"newclose": 5378.0,
+				"oldclse": 5600.0,
+				"to": "RS908"
+			},
+			{
+				"date": "20181207",
+				"from": "RS908",
+				"newclose": 5468.0,
+				"oldclse": 5399.0,
+				"to": "RS909"
+			},
+			{
+				"date": "20190222",
+				"from": "RS909",
+				"newclose": 5122.0,
+				"oldclse": 5079.0,
+				"to": "RS911"
+			},
+			{
+				"date": "20191101",
+				"from": "RS911",
+				"newclose": 4184.0,
+				"oldclse": 3616.0,
+				"to": "RS007"
+			},
+			{
+				"date": "20200413",
+				"from": "RS007",
+				"newclose": 4299.0,
+				"oldclse": 4404.0,
+				"to": "RS008"
+			},
+			{
+				"date": "20200422",
+				"from": "RS008",
+				"newclose": 4535.0,
+				"oldclse": 4299.0,
+				"to": "RS009"
+			},
+			{
+				"date": "20200901",
+				"from": "RS009",
+				"newclose": 5578.0,
+				"oldclse": 5533.0,
+				"to": "RS011"
+			},
+			{
+				"date": "20201102",
+				"from": "RS011",
+				"newclose": 5240.0,
+				"oldclse": 5905.0,
+				"to": "RS107"
+			},
+			{
+				"date": "20210615",
+				"from": "RS107",
+				"newclose": 5730.0,
+				"oldclse": 5702.0,
+				"to": "RS109"
+			},
+			{
+				"date": "20210901",
+				"from": "RS109",
+				"newclose": 5934.0,
+				"oldclse": 6089.0,
+				"to": "RS111"
+			},
+			{
+				"date": "20211101",
+				"from": "RS111",
+				"newclose": 6406.0,
+				"oldclse": 6399.0,
+				"to": "RS208"
+			},
+			{
+				"date": "20220222",
+				"from": "RS208",
+				"newclose": 5996.0,
+				"oldclse": 5969.0,
+				"to": "RS209"
+			}
+		],
+		"SA": [
+			{
+				"date": "20200420",
+				"from": "SA005",
+				"newclose": 1494.0,
+				"oldclse": 1343.0,
+				"to": "SA009"
+			},
+			{
+				"date": "20200820",
+				"from": "SA009",
+				"newclose": 1592.0,
+				"oldclse": 1424.0,
+				"to": "SA101"
+			},
+			{
+				"date": "20201221",
+				"from": "SA101",
+				"newclose": 1666.0,
+				"oldclse": 1471.0,
+				"to": "SA105"
+			},
+			{
+				"date": "20210408",
+				"from": "SA105",
+				"newclose": 1967.0,
+				"oldclse": 1842.0,
+				"to": "SA109"
+			},
+			{
+				"date": "20210730",
+				"from": "SA109",
+				"newclose": 2626.0,
+				"oldclse": 2338.0,
+				"to": "SA201"
+			},
+			{
+				"date": "20211203",
+				"from": "SA201",
+				"newclose": 2523.0,
+				"oldclse": 2640.0,
+				"to": "SA205"
+			}
+		],
+		"SF": [
+			{
+				"date": "20141226",
+				"from": "SF501",
+				"newclose": 5360.0,
+				"oldclse": 5578.0,
+				"to": "SF505"
+			},
+			{
+				"date": "20150505",
+				"from": "SF505",
+				"newclose": 4832.0,
+				"oldclse": 5072.0,
+				"to": "SF509"
+			},
+			{
+				"date": "20150812",
+				"from": "SF509",
+				"newclose": 4998.0,
+				"oldclse": 5060.0,
+				"to": "SF601"
+			},
+			{
+				"date": "20151231",
+				"from": "SF601",
+				"newclose": 3738.0,
+				"oldclse": 3780.0,
+				"to": "SF605"
+			},
+			{
+				"date": "20160504",
+				"from": "SF605",
+				"newclose": 4346.0,
+				"oldclse": 4194.0,
+				"to": "SF609"
+			},
+			{
+				"date": "20160712",
+				"from": "SF609",
+				"newclose": 4332.0,
+				"oldclse": 4260.0,
+				"to": "SF706"
+			},
+			{
+				"date": "20170221",
+				"from": "SF706",
+				"newclose": 5248.0,
+				"oldclse": 4972.0,
+				"to": "SF801"
+			},
+			{
+				"date": "20171219",
+				"from": "SF801",
+				"newclose": 6726.0,
+				"oldclse": 8530.0,
+				"to": "SF805"
+			},
+			{
+				"date": "20180423",
+				"from": "SF805",
+				"newclose": 6174.0,
+				"oldclse": 6102.0,
+				"to": "SF809"
+			},
+			{
+				"date": "20180817",
+				"from": "SF809",
+				"newclose": 7048.0,
+				"oldclse": 6852.0,
+				"to": "SF901"
+			},
+			{
+				"date": "20181225",
+				"from": "SF901",
+				"newclose": 5826.0,
+				"oldclse": 6132.0,
+				"to": "SF905"
+			},
+			{
+				"date": "20190424",
+				"from": "SF905",
+				"newclose": 5900.0,
+				"oldclse": 5792.0,
+				"to": "SF909"
+			},
+			{
+				"date": "20190827",
+				"from": "SF909",
+				"newclose": 5752.0,
+				"oldclse": 5992.0,
+				"to": "SF001"
+			},
+			{
+				"date": "20191224",
+				"from": "SF001",
+				"newclose": 5820.0,
+				"oldclse": 5786.0,
+				"to": "SF005"
+			},
+			{
+				"date": "20200413",
+				"from": "SF005",
+				"newclose": 5532.0,
+				"oldclse": 5458.0,
+				"to": "SF009"
+			},
+			{
+				"date": "20200619",
+				"from": "SF009",
+				"newclose": 6032.0,
+				"oldclse": 6098.0,
+				"to": "SF010"
+			},
+			{
+				"date": "20200930",
+				"from": "SF010",
+				"newclose": 5708.0,
+				"oldclse": 5650.0,
+				"to": "SF101"
+			},
+			{
+				"date": "20201217",
+				"from": "SF101",
+				"newclose": 6378.0,
+				"oldclse": 6332.0,
+				"to": "SF105"
+			},
+			{
+				"date": "20210420",
+				"from": "SF105",
+				"newclose": 7366.0,
+				"oldclse": 7168.0,
+				"to": "SF109"
+			},
+			{
+				"date": "20210817",
+				"from": "SF109",
+				"newclose": 9048.0,
+				"oldclse": 9192.0,
+				"to": "SF201"
+			},
+			{
+				"date": "20211222",
+				"from": "SF201",
+				"newclose": 8192.0,
+				"oldclse": 8212.0,
+				"to": "SF205"
+			}
+		],
+		"SM": [
+			{
+				"date": "20150106",
+				"from": "SM501",
+				"newclose": 5922.0,
+				"oldclse": 6100.0,
+				"to": "SM505"
+			},
+			{
+				"date": "20150505",
+				"from": "SM505",
+				"newclose": 5918.0,
+				"oldclse": 5396.0,
+				"to": "SM601"
+			},
+			{
+				"date": "20150701",
+				"from": "SM601",
+				"newclose": 4708.0,
+				"oldclse": 5370.0,
+				"to": "SM604"
+			},
+			{
+				"date": "20150729",
+				"from": "SM604",
+				"newclose": 5046.0,
+				"oldclse": 5184.0,
+				"to": "SM607"
+			},
+			{
+				"date": "20160503",
+				"from": "SM607",
+				"newclose": 5040.0,
+				"oldclse": 5702.0,
+				"to": "SM609"
+			},
+			{
+				"date": "20160901",
+				"from": "SM609",
+				"newclose": 5614.0,
+				"oldclse": 5960.0,
+				"to": "SM701"
+			},
+			{
+				"date": "20161215",
+				"from": "SM701",
+				"newclose": 7538.0,
+				"oldclse": 8430.0,
+				"to": "SM705"
+			},
+			{
+				"date": "20170418",
+				"from": "SM705",
+				"newclose": 5580.0,
+				"oldclse": 5870.0,
+				"to": "SM709"
+			},
+			{
+				"date": "20170814",
+				"from": "SM709",
+				"newclose": 6856.0,
+				"oldclse": 6990.0,
+				"to": "SM801"
+			},
+			{
+				"date": "20171225",
+				"from": "SM801",
+				"newclose": 7252.0,
+				"oldclse": 8368.0,
+				"to": "SM805"
+			},
+			{
+				"date": "20180426",
+				"from": "SM805",
+				"newclose": 7524.0,
+				"oldclse": 7740.0,
+				"to": "SM809"
+			},
+			{
+				"date": "20180816",
+				"from": "SM809",
+				"newclose": 8728.0,
+				"oldclse": 8622.0,
+				"to": "SM901"
+			},
+			{
+				"date": "20181225",
+				"from": "SM901",
+				"newclose": 7244.0,
+				"oldclse": 8196.0,
+				"to": "SM905"
+			},
+			{
+				"date": "20190422",
+				"from": "SM905",
+				"newclose": 7236.0,
+				"oldclse": 7390.0,
+				"to": "SM909"
+			},
+			{
+				"date": "20190826",
+				"from": "SM909",
+				"newclose": 6970.0,
+				"oldclse": 7334.0,
+				"to": "SM001"
+			},
+			{
+				"date": "20191218",
+				"from": "SM001",
+				"newclose": 6422.0,
+				"oldclse": 6428.0,
+				"to": "SM005"
+			},
+			{
+				"date": "20200414",
+				"from": "SM005",
+				"newclose": 6904.0,
+				"oldclse": 6856.0,
+				"to": "SM009"
+			},
+			{
+				"date": "20200821",
+				"from": "SM009",
+				"newclose": 6222.0,
+				"oldclse": 6140.0,
+				"to": "SM101"
+			},
+			{
+				"date": "20201214",
+				"from": "SM101",
+				"newclose": 6508.0,
+				"oldclse": 6432.0,
+				"to": "SM105"
+			},
+			{
+				"date": "20210420",
+				"from": "SM105",
+				"newclose": 7184.0,
+				"oldclse": 7128.0,
+				"to": "SM109"
+			},
+			{
+				"date": "20210818",
+				"from": "SM109",
+				"newclose": 7950.0,
+				"oldclse": 7946.0,
+				"to": "SM201"
+			},
+			{
+				"date": "20211223",
+				"from": "SM201",
+				"newclose": 8034.0,
+				"oldclse": 8016.0,
+				"to": "SM205"
+			}
+		],
+		"SR": [
+			{
+				"date": "20100322",
+				"from": "SR009",
+				"newclose": 5179.0,
+				"oldclse": 5345.0,
+				"to": "SR101"
+			},
+			{
+				"date": "20100819",
+				"from": "SR101",
+				"newclose": 5347.0,
+				"oldclse": 5265.0,
+				"to": "SR105"
+			},
+			{
+				"date": "20101102",
+				"from": "SR105",
+				"newclose": 6654.0,
+				"oldclse": 6590.0,
+				"to": "SR109"
+			},
+			{
+				"date": "20110615",
+				"from": "SR109",
+				"newclose": 6730.0,
+				"oldclse": 6939.0,
+				"to": "SR201"
+			},
+			{
+				"date": "20110916",
+				"from": "SR201",
+				"newclose": 6824.0,
+				"oldclse": 6947.0,
+				"to": "SR205"
+			},
+			{
+				"date": "20111228",
+				"from": "SR205",
+				"newclose": 6063.0,
+				"oldclse": 6105.0,
+				"to": "SR209"
+			},
+			{
+				"date": "20120524",
+				"from": "SR209",
+				"newclose": 6016.0,
+				"oldclse": 6226.0,
+				"to": "SR301"
+			},
+			{
+				"date": "20121030",
+				"from": "SR301",
+				"newclose": 5208.0,
+				"oldclse": 5312.0,
+				"to": "SR305"
+			},
+			{
+				"date": "20130124",
+				"from": "SR305",
+				"newclose": 5435.0,
+				"oldclse": 5415.0,
+				"to": "SR309"
+			},
+			{
+				"date": "20130628",
+				"from": "SR309",
+				"newclose": 4954.0,
+				"oldclse": 5192.0,
+				"to": "SR401"
+			},
+			{
+				"date": "20131111",
+				"from": "SR401",
+				"newclose": 5142.0,
+				"oldclse": 5197.0,
+				"to": "SR405"
+			},
+			{
+				"date": "20140225",
+				"from": "SR405",
+				"newclose": 4771.0,
+				"oldclse": 4693.0,
+				"to": "SR409"
+			},
+			{
+				"date": "20140619",
+				"from": "SR409",
+				"newclose": 5031.0,
+				"oldclse": 4722.0,
+				"to": "SR501"
+			},
+			{
+				"date": "20141111",
+				"from": "SR501",
+				"newclose": 4735.0,
+				"oldclse": 4658.0,
+				"to": "SR505"
+			},
+			{
+				"date": "20150217",
+				"from": "SR505",
+				"newclose": 5190.0,
+				"oldclse": 5125.0,
+				"to": "SR509"
+			},
+			{
+				"date": "20150624",
+				"from": "SR509",
+				"newclose": 5593.0,
+				"oldclse": 5333.0,
+				"to": "SR601"
+			},
+			{
+				"date": "20151118",
+				"from": "SR601",
+				"newclose": 5293.0,
+				"oldclse": 5350.0,
+				"to": "SR605"
+			},
+			{
+				"date": "20160302",
+				"from": "SR605",
+				"newclose": 5478.0,
+				"oldclse": 5364.0,
+				"to": "SR609"
+			},
+			{
+				"date": "20160721",
+				"from": "SR609",
+				"newclose": 6245.0,
+				"oldclse": 5867.0,
+				"to": "SR701"
+			},
+			{
+				"date": "20161208",
+				"from": "SR701",
+				"newclose": 7122.0,
+				"oldclse": 7049.0,
+				"to": "SR705"
+			},
+			{
+				"date": "20170405",
+				"from": "SR705",
+				"newclose": 6602.0,
+				"oldclse": 6528.0,
+				"to": "SR709"
+			},
+			{
+				"date": "20170718",
+				"from": "SR709",
+				"newclose": 6231.0,
+				"oldclse": 6283.0,
+				"to": "SR801"
+			},
+			{
+				"date": "20171215",
+				"from": "SR801",
+				"newclose": 5961.0,
+				"oldclse": 6269.0,
+				"to": "SR805"
+			},
+			{
+				"date": "20180402",
+				"from": "SR805",
+				"newclose": 5568.0,
+				"oldclse": 5654.0,
+				"to": "SR809"
+			},
+			{
+				"date": "20180731",
+				"from": "SR809",
+				"newclose": 5120.0,
+				"oldclse": 4979.0,
+				"to": "SR901"
+			},
+			{
+				"date": "20181113",
+				"from": "SR901",
+				"newclose": 4953.0,
+				"oldclse": 4997.0,
+				"to": "SR905"
+			},
+			{
+				"date": "20190319",
+				"from": "SR905",
+				"newclose": 5135.0,
+				"oldclse": 5157.0,
+				"to": "SR909"
+			},
+			{
+				"date": "20190729",
+				"from": "SR909",
+				"newclose": 5389.0,
+				"oldclse": 5364.0,
+				"to": "SR001"
+			},
+			{
+				"date": "20191204",
+				"from": "SR001",
+				"newclose": 5407.0,
+				"oldclse": 5540.0,
+				"to": "SR005"
+			},
+			{
+				"date": "20200317",
+				"from": "SR005",
+				"newclose": 5466.0,
+				"oldclse": 5514.0,
+				"to": "SR009"
+			},
+			{
+				"date": "20200805",
+				"from": "SR009",
+				"newclose": 4953.0,
+				"oldclse": 5082.0,
+				"to": "SR101"
+			},
+			{
+				"date": "20201130",
+				"from": "SR101",
+				"newclose": 5122.0,
+				"oldclse": 5117.0,
+				"to": "SR105"
+			},
+			{
+				"date": "20210317",
+				"from": "SR105",
+				"newclose": 5458.0,
+				"oldclse": 5374.0,
+				"to": "SR109"
+			},
+			{
+				"date": "20210811",
+				"from": "SR109",
+				"newclose": 5953.0,
+				"oldclse": 5652.0,
+				"to": "SR201"
+			},
+			{
+				"date": "20211206",
+				"from": "SR201",
+				"newclose": 5886.0,
+				"oldclse": 5822.0,
+				"to": "SR205"
+			}
+		],
+		"TA": [
+			{
+				"date": "20100122",
+				"from": "TA003",
+				"newclose": 8324.0,
+				"oldclse": 8148.0,
+				"to": "TA005"
+			},
+			{
+				"date": "20100330",
+				"from": "TA005",
+				"newclose": 8598.0,
+				"oldclse": 8310.0,
+				"to": "TA009"
+			},
+			{
+				"date": "20100730",
+				"from": "TA009",
+				"newclose": 7634.0,
+				"oldclse": 7234.0,
+				"to": "TA101"
+			},
+			{
+				"date": "20101103",
+				"from": "TA101",
+				"newclose": 9230.0,
+				"oldclse": 8866.0,
+				"to": "TA105"
+			},
+			{
+				"date": "20110325",
+				"from": "TA105",
+				"newclose": 11514.0,
+				"oldclse": 11674.0,
+				"to": "TA109"
+			},
+			{
+				"date": "20110706",
+				"from": "TA109",
+				"newclose": 8986.0,
+				"oldclse": 8978.0,
+				"to": "TA201"
+			},
+			{
+				"date": "20111123",
+				"from": "TA201",
+				"newclose": 8036.0,
+				"oldclse": 8382.0,
+				"to": "TA205"
+			},
+			{
+				"date": "20120316",
+				"from": "TA205",
+				"newclose": 8752.0,
+				"oldclse": 8758.0,
+				"to": "TA209"
+			},
+			{
+				"date": "20120712",
+				"from": "TA209",
+				"newclose": 7480.0,
+				"oldclse": 7522.0,
+				"to": "TA301"
+			},
+			{
+				"date": "20121107",
+				"from": "TA301",
+				"newclose": 7606.0,
+				"oldclse": 7880.0,
+				"to": "TA305"
+			},
+			{
+				"date": "20130225",
+				"from": "TA305",
+				"newclose": 8550.0,
+				"oldclse": 8648.0,
+				"to": "TA309"
+			},
+			{
+				"date": "20130711",
+				"from": "TA309",
+				"newclose": 7750.0,
+				"oldclse": 7960.0,
+				"to": "TA401"
+			},
+			{
+				"date": "20131203",
+				"from": "TA401",
+				"newclose": 7518.0,
+				"oldclse": 7590.0,
+				"to": "TA405"
+			},
+			{
+				"date": "20140312",
+				"from": "TA405",
+				"newclose": 6462.0,
+				"oldclse": 6504.0,
+				"to": "TA409"
+			},
+			{
+				"date": "20140807",
+				"from": "TA409",
+				"newclose": 6978.0,
+				"oldclse": 7398.0,
+				"to": "TA501"
+			},
+			{
+				"date": "20141126",
+				"from": "TA501",
+				"newclose": 5620.0,
+				"oldclse": 5794.0,
+				"to": "TA505"
+			},
+			{
+				"date": "20150401",
+				"from": "TA505",
+				"newclose": 4672.0,
+				"oldclse": 4510.0,
+				"to": "TA509"
+			},
+			{
+				"date": "20150807",
+				"from": "TA509",
+				"newclose": 4672.0,
+				"oldclse": 4556.0,
+				"to": "TA601"
+			},
+			{
+				"date": "20151125",
+				"from": "TA601",
+				"newclose": 4570.0,
+				"oldclse": 4694.0,
+				"to": "TA605"
+			},
+			{
+				"date": "20160331",
+				"from": "TA605",
+				"newclose": 4854.0,
+				"oldclse": 4718.0,
+				"to": "TA609"
+			},
+			{
+				"date": "20160808",
+				"from": "TA609",
+				"newclose": 4782.0,
+				"oldclse": 4582.0,
+				"to": "TA701"
+			},
+			{
+				"date": "20161116",
+				"from": "TA701",
+				"newclose": 4968.0,
+				"oldclse": 4852.0,
+				"to": "TA705"
+			},
+			{
+				"date": "20170410",
+				"from": "TA705",
+				"newclose": 5154.0,
+				"oldclse": 4996.0,
+				"to": "TA709"
+			},
+			{
+				"date": "20170808",
+				"from": "TA709",
+				"newclose": 5220.0,
+				"oldclse": 5112.0,
+				"to": "TA801"
+			},
+			{
+				"date": "20171124",
+				"from": "TA801",
+				"newclose": 5468.0,
+				"oldclse": 5426.0,
+				"to": "TA805"
+			},
+			{
+				"date": "20180328",
+				"from": "TA805",
+				"newclose": 5414.0,
+				"oldclse": 5430.0,
+				"to": "TA809"
+			},
+			{
+				"date": "20180808",
+				"from": "TA809",
+				"newclose": 6794.0,
+				"oldclse": 6950.0,
+				"to": "TA901"
+			},
+			{
+				"date": "20181203",
+				"from": "TA901",
+				"newclose": 5900.0,
+				"oldclse": 6124.0,
+				"to": "TA905"
+			},
+			{
+				"date": "20190410",
+				"from": "TA905",
+				"newclose": 6250.0,
+				"oldclse": 6480.0,
+				"to": "TA909"
+			},
+			{
+				"date": "20190816",
+				"from": "TA909",
+				"newclose": 5188.0,
+				"oldclse": 5254.0,
+				"to": "TA001"
+			},
+			{
+				"date": "20191212",
+				"from": "TA001",
+				"newclose": 4926.0,
+				"oldclse": 4836.0,
+				"to": "TA005"
+			},
+			{
+				"date": "20200330",
+				"from": "TA005",
+				"newclose": 3262.0,
+				"oldclse": 3132.0,
+				"to": "TA009"
+			},
+			{
+				"date": "20200811",
+				"from": "TA009",
+				"newclose": 3816.0,
+				"oldclse": 3656.0,
+				"to": "TA101"
+			},
+			{
+				"date": "20201127",
+				"from": "TA101",
+				"newclose": 3616.0,
+				"oldclse": 3498.0,
+				"to": "TA105"
+			},
+			{
+				"date": "20210331",
+				"from": "TA105",
+				"newclose": 4470.0,
+				"oldclse": 4382.0,
+				"to": "TA109"
+			},
+			{
+				"date": "20210805",
+				"from": "TA109",
+				"newclose": 5198.0,
+				"oldclse": 5172.0,
+				"to": "TA201"
+			},
+			{
+				"date": "20211209",
+				"from": "TA201",
+				"newclose": 4740.0,
+				"oldclse": 4706.0,
+				"to": "TA205"
+			}
+		],
+		"UR": [
+			{
+				"date": "20191213",
+				"from": "UR001",
+				"newclose": 1736.0,
+				"oldclse": 1710.0,
+				"to": "UR005"
+			},
+			{
+				"date": "20200410",
+				"from": "UR005",
+				"newclose": 1582.0,
+				"oldclse": 1681.0,
+				"to": "UR009"
+			},
+			{
+				"date": "20200806",
+				"from": "UR009",
+				"newclose": 1732.0,
+				"oldclse": 1766.0,
+				"to": "UR101"
+			},
+			{
+				"date": "20201217",
+				"from": "UR101",
+				"newclose": 1812.0,
+				"oldclse": 1760.0,
+				"to": "UR105"
+			},
+			{
+				"date": "20210420",
+				"from": "UR105",
+				"newclose": 2040.0,
+				"oldclse": 2050.0,
+				"to": "UR107"
+			},
+			{
+				"date": "20210608",
+				"from": "UR107",
+				"newclose": 2383.0,
+				"oldclse": 2417.0,
+				"to": "UR109"
+			},
+			{
+				"date": "20210813",
+				"from": "UR109",
+				"newclose": 2337.0,
+				"oldclse": 2456.0,
+				"to": "UR201"
+			},
+			{
+				"date": "20211220",
+				"from": "UR201",
+				"newclose": 2324.0,
+				"oldclse": 2350.0,
+				"to": "UR205"
+			}
+		],
+		"WH": [
+			{
+				"date": "20121107",
+				"from": "WH307",
+				"newclose": 2654.0,
+				"oldclse": 2587.0,
+				"to": "WH309"
+			},
+			{
+				"date": "20130625",
+				"from": "WH309",
+				"newclose": 2735.0,
+				"oldclse": 2640.0,
+				"to": "WH401"
+			},
+			{
+				"date": "20131113",
+				"from": "WH401",
+				"newclose": 2842.0,
+				"oldclse": 2803.0,
+				"to": "WH405"
+			},
+			{
+				"date": "20140430",
+				"from": "WH405",
+				"newclose": 2688.0,
+				"oldclse": 2930.0,
+				"to": "WH409"
+			},
+			{
+				"date": "20140808",
+				"from": "WH409",
+				"newclose": 2744.0,
+				"oldclse": 2635.0,
+				"to": "WH501"
+			},
+			{
+				"date": "20150106",
+				"from": "WH501",
+				"newclose": 2629.0,
+				"oldclse": 2536.0,
+				"to": "WH505"
+			},
+			{
+				"date": "20150505",
+				"from": "WH505",
+				"newclose": 2682.0,
+				"oldclse": 2562.0,
+				"to": "WH601"
+			},
+			{
+				"date": "20151021",
+				"from": "WH601",
+				"newclose": 2769.0,
+				"oldclse": 2771.0,
+				"to": "WH605"
+			},
+			{
+				"date": "20160425",
+				"from": "WH605",
+				"newclose": 2688.0,
+				"oldclse": 2606.0,
+				"to": "WH609"
+			},
+			{
+				"date": "20160720",
+				"from": "WH609",
+				"newclose": 2615.0,
+				"oldclse": 2581.0,
+				"to": "WH701"
+			},
+			{
+				"date": "20161223",
+				"from": "WH701",
+				"newclose": 3039.0,
+				"oldclse": 3111.0,
+				"to": "WH705"
+			},
+			{
+				"date": "20170503",
+				"from": "WH705",
+				"newclose": 2589.0,
+				"oldclse": 2729.0,
+				"to": "WH709"
+			},
+			{
+				"date": "20170711",
+				"from": "WH709",
+				"newclose": 2630.0,
+				"oldclse": 2572.0,
+				"to": "WH801"
+			},
+			{
+				"date": "20171229",
+				"from": "WH801",
+				"newclose": 2578.0,
+				"oldclse": 2515.0,
+				"to": "WH805"
+			},
+			{
+				"date": "20180417",
+				"from": "WH805",
+				"newclose": 2508.0,
+				"oldclse": 2484.0,
+				"to": "WH809"
+			},
+			{
+				"date": "20180716",
+				"from": "WH809",
+				"newclose": 2591.0,
+				"oldclse": 2491.0,
+				"to": "WH901"
+			},
+			{
+				"date": "20190102",
+				"from": "WH901",
+				"newclose": 2410.0,
+				"oldclse": 2419.0,
+				"to": "WH905"
+			},
+			{
+				"date": "20190426",
+				"from": "WH905",
+				"newclose": 2445.0,
+				"oldclse": 2689.0,
+				"to": "WH909"
+			},
+			{
+				"date": "20190903",
+				"from": "WH909",
+				"newclose": 2422.0,
+				"oldclse": 2126.0,
+				"to": "WH001"
+			},
+			{
+				"date": "20200103",
+				"from": "WH001",
+				"newclose": 2603.0,
+				"oldclse": 2398.0,
+				"to": "WH003"
+			},
+			{
+				"date": "20200214",
+				"from": "WH003",
+				"newclose": 2639.0,
+				"oldclse": 2665.0,
+				"to": "WH005"
+			},
+			{
+				"date": "20200413",
+				"from": "WH005",
+				"newclose": 2553.0,
+				"oldclse": 2637.0,
+				"to": "WH009"
+			},
+			{
+				"date": "20200901",
+				"from": "WH009",
+				"newclose": 2623.0,
+				"oldclse": 2437.0,
+				"to": "WH101"
+			},
+			{
+				"date": "20210105",
+				"from": "WH101",
+				"newclose": 2681.0,
+				"oldclse": 2601.0,
+				"to": "WH109"
+			},
+			{
+				"date": "20210901",
+				"from": "WH109",
+				"newclose": 2798.0,
+				"oldclse": 2679.0,
+				"to": "WH205"
+			}
+		],
+		"ZC": [
+			{
+				"date": "20160408",
+				"from": "ZC605",
+				"newclose": 363.4,
+				"oldclse": 369.6,
+				"to": "ZC609"
+			},
+			{
+				"date": "20160817",
+				"from": "ZC609",
+				"newclose": 509.0,
+				"oldclse": 438.2,
+				"to": "ZC701"
+			},
+			{
+				"date": "20161207",
+				"from": "ZC701",
+				"newclose": 540.4,
+				"oldclse": 615.2,
+				"to": "ZC705"
+			},
+			{
+				"date": "20170420",
+				"from": "ZC705",
+				"newclose": 545.8,
+				"oldclse": 629.0,
+				"to": "ZC709"
+			},
+			{
+				"date": "20170811",
+				"from": "ZC709",
+				"newclose": 600.4,
+				"oldclse": 613.2,
+				"to": "ZC801"
+			},
+			{
+				"date": "20171221",
+				"from": "ZC801",
+				"newclose": 631.0,
+				"oldclse": 687.4,
+				"to": "ZC805"
+			},
+			{
+				"date": "20180416",
+				"from": "ZC805",
+				"newclose": 570.0,
+				"oldclse": 565.4,
+				"to": "ZC809"
+			},
+			{
+				"date": "20180810",
+				"from": "ZC809",
+				"newclose": 613.0,
+				"oldclse": 621.6,
+				"to": "ZC901"
+			},
+			{
+				"date": "20181207",
+				"from": "ZC901",
+				"newclose": 574.4,
+				"oldclse": 615.8,
+				"to": "ZC905"
+			},
+			{
+				"date": "20190422",
+				"from": "ZC905",
+				"newclose": 596.8,
+				"oldclse": 611.0,
+				"to": "ZC909"
+			},
+			{
+				"date": "20190822",
+				"from": "ZC909",
+				"newclose": 587.0,
+				"oldclse": 589.8,
+				"to": "ZC911"
+			},
+			{
+				"date": "20190917",
+				"from": "ZC911",
+				"newclose": 584.8,
+				"oldclse": 588.8,
+				"to": "ZC001"
+			},
+			{
+				"date": "20191213",
+				"from": "ZC001",
+				"newclose": 536.4,
+				"oldclse": 546.0,
+				"to": "ZC005"
+			},
+			{
+				"date": "20200331",
+				"from": "ZC005",
+				"newclose": 499.6,
+				"oldclse": 515.8,
+				"to": "ZC009"
+			},
+			{
+				"date": "20200821",
+				"from": "ZC009",
+				"newclose": 563.8,
+				"oldclse": 560.2,
+				"to": "ZC011"
+			},
+			{
+				"date": "20201020",
+				"from": "ZC011",
+				"newclose": 576.4,
+				"oldclse": 590.0,
+				"to": "ZC101"
+			},
+			{
+				"date": "20201217",
+				"from": "ZC101",
+				"newclose": 689.8,
+				"oldclse": 728.8,
+				"to": "ZC105"
+			},
+			{
+				"date": "20210423",
+				"from": "ZC105",
+				"newclose": 745.4,
+				"oldclse": 785.0,
+				"to": "ZC109"
+			},
+			{
+				"date": "20210816",
+				"from": "ZC109",
+				"newclose": 762.0,
+				"oldclse": 883.8,
+				"to": "ZC201"
+			},
+			{
+				"date": "20211206",
+				"from": "ZC201",
+				"newclose": 676.0,
+				"oldclse": 827.2,
+				"to": "ZC205"
+			}
+		]
+	},
+	"INE": {
+		"bc": [
+			{
+				"date": "20210114",
+				"from": "bc2103",
+				"newclose": 52330.0,
+				"oldclse": 52230.0,
+				"to": "bc2104"
+			},
+			{
+				"date": "20210224",
+				"from": "bc2104",
+				"newclose": 60560.0,
+				"oldclse": 60600.0,
+				"to": "bc2105"
+			},
+			{
+				"date": "20210401",
+				"from": "bc2105",
+				"newclose": 57860.0,
+				"oldclse": 57690.0,
+				"to": "bc2106"
+			},
+			{
+				"date": "20210506",
+				"from": "bc2106",
+				"newclose": 65470.0,
+				"oldclse": 65310.0,
+				"to": "bc2107"
+			},
+			{
+				"date": "20210604",
+				"from": "bc2107",
+				"newclose": 63180.0,
+				"oldclse": 62980.0,
+				"to": "bc2108"
+			},
+			{
+				"date": "20210702",
+				"from": "bc2108",
+				"newclose": 60850.0,
+				"oldclse": 60830.0,
+				"to": "bc2109"
+			},
+			{
+				"date": "20210730",
+				"from": "bc2109",
+				"newclose": 64100.0,
+				"oldclse": 63980.0,
+				"to": "bc2110"
+			},
+			{
+				"date": "20210831",
+				"from": "bc2110",
+				"newclose": 62360.0,
+				"oldclse": 62510.0,
+				"to": "bc2111"
+			},
+			{
+				"date": "20210924",
+				"from": "bc2111",
+				"newclose": 61110.0,
+				"oldclse": 61130.0,
+				"to": "bc2112"
+			},
+			{
+				"date": "20211029",
+				"from": "bc2112",
+				"newclose": 62360.0,
+				"oldclse": 62400.0,
+				"to": "bc2201"
+			},
+			{
+				"date": "20211201",
+				"from": "bc2201",
+				"newclose": 61820.0,
+				"oldclse": 61870.0,
+				"to": "bc2202"
+			},
+			{
+				"date": "20211229",
+				"from": "bc2202",
+				"newclose": 62640.0,
+				"oldclse": 62690.0,
+				"to": "bc2203"
+			},
+			{
+				"date": "20220207",
+				"from": "bc2203",
+				"newclose": 62890.0,
+				"oldclse": 62740.0,
+				"to": "bc2204"
+			},
+			{
+				"date": "20220303",
+				"from": "bc2204",
+				"newclose": 65730.0,
+				"oldclse": 65680.0,
+				"to": "bc2205"
+			}
+		],
+		"lu": [
+			{
+				"date": "20201113",
+				"from": "lu2101",
+				"newclose": 2352.0,
+				"oldclse": 2261.0,
+				"to": "lu2103"
+			},
+			{
+				"date": "20201231",
+				"from": "lu2103",
+				"newclose": 2652.0,
+				"oldclse": 2645.0,
+				"to": "lu2104"
+			},
+			{
+				"date": "20210203",
+				"from": "lu2104",
+				"newclose": 2952.0,
+				"oldclse": 2933.0,
+				"to": "lu2105"
+			},
+			{
+				"date": "20210310",
+				"from": "lu2105",
+				"newclose": 3296.0,
+				"oldclse": 3278.0,
+				"to": "lu2106"
+			},
+			{
+				"date": "20210407",
+				"from": "lu2106",
+				"newclose": 3078.0,
+				"oldclse": 3075.0,
+				"to": "lu2107"
+			},
+			{
+				"date": "20210430",
+				"from": "lu2107",
+				"newclose": 3268.0,
+				"oldclse": 3243.0,
+				"to": "lu2108"
+			},
+			{
+				"date": "20210602",
+				"from": "lu2108",
+				"newclose": 3318.0,
+				"oldclse": 3304.0,
+				"to": "lu2109"
+			},
+			{
+				"date": "20210705",
+				"from": "lu2109",
+				"newclose": 3570.0,
+				"oldclse": 3544.0,
+				"to": "lu2110"
+			},
+			{
+				"date": "20210805",
+				"from": "lu2110",
+				"newclose": 3259.0,
+				"oldclse": 3261.0,
+				"to": "lu2111"
+			},
+			{
+				"date": "20210902",
+				"from": "lu2111",
+				"newclose": 3403.0,
+				"oldclse": 3437.0,
+				"to": "lu2112"
+			},
+			{
+				"date": "20210930",
+				"from": "lu2112",
+				"newclose": 3656.0,
+				"oldclse": 3643.0,
+				"to": "lu2201"
+			},
+			{
+				"date": "20211102",
+				"from": "lu2201",
+				"newclose": 3906.0,
+				"oldclse": 3892.0,
+				"to": "lu2202"
+			},
+			{
+				"date": "20211209",
+				"from": "lu2202",
+				"newclose": 3481.0,
+				"oldclse": 3513.0,
+				"to": "lu2203"
+			},
+			{
+				"date": "20211231",
+				"from": "lu2203",
+				"newclose": 3691.0,
+				"oldclse": 3702.0,
+				"to": "lu2204"
+			},
+			{
+				"date": "20220207",
+				"from": "lu2204",
+				"newclose": 4283.0,
+				"oldclse": 4313.0,
+				"to": "lu2205"
+			},
+			{
+				"date": "20220303",
+				"from": "lu2205",
+				"newclose": 5092.0,
+				"oldclse": 5181.0,
+				"to": "lu2206"
+			}
+		],
+		"nr": [
+			{
+				"date": "20191118",
+				"from": "nr2002",
+				"newclose": 10385.0,
+				"oldclse": 10300.0,
+				"to": "nr2003"
+			},
+			{
+				"date": "20200108",
+				"from": "nr2003",
+				"newclose": 11080.0,
+				"oldclse": 10975.0,
+				"to": "nr2004"
+			},
+			{
+				"date": "20200302",
+				"from": "nr2004",
+				"newclose": 9375.0,
+				"oldclse": 9300.0,
+				"to": "nr2005"
+			},
+			{
+				"date": "20200414",
+				"from": "nr2005",
+				"newclose": 8260.0,
+				"oldclse": 8130.0,
+				"to": "nr2006"
+			},
+			{
+				"date": "20200512",
+				"from": "nr2006",
+				"newclose": 8340.0,
+				"oldclse": 8240.0,
+				"to": "nr2007"
+			},
+			{
+				"date": "20200601",
+				"from": "nr2007",
+				"newclose": 8790.0,
+				"oldclse": 8560.0,
+				"to": "nr2009"
+			},
+			{
+				"date": "20200724",
+				"from": "nr2009",
+				"newclose": 8610.0,
+				"oldclse": 8540.0,
+				"to": "nr2010"
+			},
+			{
+				"date": "20200826",
+				"from": "nr2010",
+				"newclose": 9595.0,
+				"oldclse": 9465.0,
+				"to": "nr2011"
+			},
+			{
+				"date": "20200929",
+				"from": "nr2011",
+				"newclose": 9560.0,
+				"oldclse": 9395.0,
+				"to": "nr2012"
+			},
+			{
+				"date": "20201023",
+				"from": "nr2012",
+				"newclose": 10950.0,
+				"oldclse": 10855.0,
+				"to": "nr2101"
+			},
+			{
+				"date": "20201126",
+				"from": "nr2101",
+				"newclose": 10690.0,
+				"oldclse": 10625.0,
+				"to": "nr2102"
+			},
+			{
+				"date": "20201224",
+				"from": "nr2102",
+				"newclose": 10445.0,
+				"oldclse": 10370.0,
+				"to": "nr2103"
+			},
+			{
+				"date": "20210128",
+				"from": "nr2103",
+				"newclose": 10545.0,
+				"oldclse": 10450.0,
+				"to": "nr2104"
+			},
+			{
+				"date": "20210224",
+				"from": "nr2104",
+				"newclose": 12230.0,
+				"oldclse": 12130.0,
+				"to": "nr2105"
+			},
+			{
+				"date": "20210331",
+				"from": "nr2105",
+				"newclose": 10890.0,
+				"oldclse": 10710.0,
+				"to": "nr2106"
+			},
+			{
+				"date": "20210429",
+				"from": "nr2106",
+				"newclose": 11300.0,
+				"oldclse": 11165.0,
+				"to": "nr2107"
+			},
+			{
+				"date": "20210531",
+				"from": "nr2107",
+				"newclose": 10965.0,
+				"oldclse": 10815.0,
+				"to": "nr2108"
+			},
+			{
+				"date": "20210701",
+				"from": "nr2108",
+				"newclose": 10290.0,
+				"oldclse": 10150.0,
+				"to": "nr2109"
+			},
+			{
+				"date": "20210803",
+				"from": "nr2109",
+				"newclose": 11160.0,
+				"oldclse": 11000.0,
+				"to": "nr2110"
+			},
+			{
+				"date": "20210901",
+				"from": "nr2110",
+				"newclose": 10840.0,
+				"oldclse": 10715.0,
+				"to": "nr2111"
+			},
+			{
+				"date": "20210922",
+				"from": "nr2111",
+				"newclose": 10780.0,
+				"oldclse": 10805.0,
+				"to": "nr2112"
+			},
+			{
+				"date": "20211019",
+				"from": "nr2112",
+				"newclose": 12210.0,
+				"oldclse": 12235.0,
+				"to": "nr2201"
+			},
+			{
+				"date": "20211124",
+				"from": "nr2201",
+				"newclose": 12230.0,
+				"oldclse": 12175.0,
+				"to": "nr2202"
+			},
+			{
+				"date": "20211217",
+				"from": "nr2202",
+				"newclose": 11325.0,
+				"oldclse": 11240.0,
+				"to": "nr2203"
+			},
+			{
+				"date": "20220119",
+				"from": "nr2203",
+				"newclose": 12100.0,
+				"oldclse": 11965.0,
+				"to": "nr2204"
+			},
+			{
+				"date": "20220217",
+				"from": "nr2204",
+				"newclose": 11655.0,
+				"oldclse": 11585.0,
+				"to": "nr2205"
+			}
+		],
+		"sc": [
+			{
+				"date": "20180813",
+				"from": "sc1809",
+				"newclose": 509.3,
+				"oldclse": 515.4,
+				"to": "sc1812"
+			},
+			{
+				"date": "20181119",
+				"from": "sc1812",
+				"newclose": 472.4,
+				"oldclse": 465.8,
+				"to": "sc1901"
+			},
+			{
+				"date": "20181217",
+				"from": "sc1901",
+				"newclose": 426.9,
+				"oldclse": 417.8,
+				"to": "sc1903"
+			},
+			{
+				"date": "20190215",
+				"from": "sc1903",
+				"newclose": 451.0,
+				"oldclse": 444.3,
+				"to": "sc1904"
+			},
+			{
+				"date": "20190318",
+				"from": "sc1904",
+				"newclose": 451.2,
+				"oldclse": 452.8,
+				"to": "sc1905"
+			},
+			{
+				"date": "20190417",
+				"from": "sc1905",
+				"newclose": 476.3,
+				"oldclse": 472.1,
+				"to": "sc1906"
+			},
+			{
+				"date": "20190520",
+				"from": "sc1906",
+				"newclose": 518.3,
+				"oldclse": 520.5,
+				"to": "sc1907"
+			},
+			{
+				"date": "20190617",
+				"from": "sc1907",
+				"newclose": 425.9,
+				"oldclse": 426.0,
+				"to": "sc1908"
+			},
+			{
+				"date": "20190718",
+				"from": "sc1908",
+				"newclose": 437.0,
+				"oldclse": 430.5,
+				"to": "sc1909"
+			},
+			{
+				"date": "20190819",
+				"from": "sc1909",
+				"newclose": 424.8,
+				"oldclse": 432.0,
+				"to": "sc1910"
+			},
+			{
+				"date": "20190910",
+				"from": "sc1910",
+				"newclose": 447.2,
+				"oldclse": 455.9,
+				"to": "sc1911"
+			},
+			{
+				"date": "20191016",
+				"from": "sc1911",
+				"newclose": 453.1,
+				"oldclse": 462.2,
+				"to": "sc1912"
+			},
+			{
+				"date": "20191118",
+				"from": "sc1912",
+				"newclose": 455.8,
+				"oldclse": 455.4,
+				"to": "sc2001"
+			},
+			{
+				"date": "20191209",
+				"from": "sc2001",
+				"newclose": 465.3,
+				"oldclse": 467.9,
+				"to": "sc2002"
+			},
+			{
+				"date": "20200103",
+				"from": "sc2002",
+				"newclose": 499.0,
+				"oldclse": 499.7,
+				"to": "sc2003"
+			},
+			{
+				"date": "20200206",
+				"from": "sc2003",
+				"newclose": 409.1,
+				"oldclse": 403.8,
+				"to": "sc2004"
+			},
+			{
+				"date": "20200302",
+				"from": "sc2004",
+				"newclose": 367.9,
+				"oldclse": 361.8,
+				"to": "sc2005"
+			},
+			{
+				"date": "20200323",
+				"from": "sc2005",
+				"newclose": 248.9,
+				"oldclse": 242.9,
+				"to": "sc2006"
+			},
+			{
+				"date": "20200427",
+				"from": "sc2006",
+				"newclose": 230.9,
+				"oldclse": 215.2,
+				"to": "sc2007"
+			},
+			{
+				"date": "20200616",
+				"from": "sc2007",
+				"newclose": 290.2,
+				"oldclse": 275.5,
+				"to": "sc2008"
+			},
+			{
+				"date": "20200714",
+				"from": "sc2008",
+				"newclose": 305.3,
+				"oldclse": 292.3,
+				"to": "sc2009"
+			},
+			{
+				"date": "20200814",
+				"from": "sc2009",
+				"newclose": 291.9,
+				"oldclse": 282.3,
+				"to": "sc2010"
+			},
+			{
+				"date": "20200910",
+				"from": "sc2010",
+				"newclose": 264.0,
+				"oldclse": 248.2,
+				"to": "sc2011"
+			},
+			{
+				"date": "20201013",
+				"from": "sc2011",
+				"newclose": 271.9,
+				"oldclse": 259.7,
+				"to": "sc2012"
+			},
+			{
+				"date": "20201103",
+				"from": "sc2012",
+				"newclose": 238.7,
+				"oldclse": 229.3,
+				"to": "sc2101"
+			},
+			{
+				"date": "20201208",
+				"from": "sc2101",
+				"newclose": 296.0,
+				"oldclse": 283.6,
+				"to": "sc2102"
+			},
+			{
+				"date": "20210107",
+				"from": "sc2102",
+				"newclose": 341.5,
+				"oldclse": 335.3,
+				"to": "sc2103"
+			},
+			{
+				"date": "20210209",
+				"from": "sc2103",
+				"newclose": 378.2,
+				"oldclse": 376.0,
+				"to": "sc2104"
+			},
+			{
+				"date": "20210304",
+				"from": "sc2104",
+				"newclose": 405.5,
+				"oldclse": 399.4,
+				"to": "sc2105"
+			},
+			{
+				"date": "20210415",
+				"from": "sc2105",
+				"newclose": 414.6,
+				"oldclse": 411.0,
+				"to": "sc2106"
+			},
+			{
+				"date": "20210514",
+				"from": "sc2106",
+				"newclose": 414.5,
+				"oldclse": 414.3,
+				"to": "sc2107"
+			},
+			{
+				"date": "20210617",
+				"from": "sc2107",
+				"newclose": 457.9,
+				"oldclse": 452.7,
+				"to": "sc2108"
+			},
+			{
+				"date": "20210716",
+				"from": "sc2108",
+				"newclose": 438.0,
+				"oldclse": 434.0,
+				"to": "sc2109"
+			},
+			{
+				"date": "20210813",
+				"from": "sc2109",
+				"newclose": 430.0,
+				"oldclse": 429.1,
+				"to": "sc2110"
+			},
+			{
+				"date": "20210909",
+				"from": "sc2110",
+				"newclose": 451.4,
+				"oldclse": 457.1,
+				"to": "sc2111"
+			},
+			{
+				"date": "20211015",
+				"from": "sc2111",
+				"newclose": 534.5,
+				"oldclse": 529.2,
+				"to": "sc2112"
+			},
+			{
+				"date": "20211117",
+				"from": "sc2112",
+				"newclose": 510.4,
+				"oldclse": 519.0,
+				"to": "sc2201"
+			},
+			{
+				"date": "20211210",
+				"from": "sc2201",
+				"newclose": 464.3,
+				"oldclse": 465.0,
+				"to": "sc2202"
+			},
+			{
+				"date": "20220110",
+				"from": "sc2202",
+				"newclose": 509.3,
+				"oldclse": 512.0,
+				"to": "sc2203"
+			},
+			{
+				"date": "20220210",
+				"from": "sc2203",
+				"newclose": 554.0,
+				"oldclse": 549.7,
+				"to": "sc2204"
+			}
+		]
+	}
+}

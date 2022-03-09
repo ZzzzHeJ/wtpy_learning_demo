@@ -244,4 +244,19 @@
     "CZCE.OI": {
         "open": 2.01,
         "close": 2.01,
-        "closet
+        "closetoday": 0.0,
+        "byvolume":true
+    },
+    "CZCE.FG": {
+        "open": 6.01,
+        "close": 6.01,
+        "closetoday": 6.01,
+        "byvolume":true
+    },
+    "CZCE.RM": {
+        "open": 1.51,
+        "close": 1.51,
+        "closetoday": 1.51,
+        "byvolume":true
+    }
+}

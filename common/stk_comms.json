@@ -55,4 +55,8 @@
 			"precision" : 2,
 			"pricemode" : 1,
 			"pricetick" : 0.01,
-			"session" : 
+			"session" : "SD0930",
+			"volscale" : 1
+		}
+	}
+}
