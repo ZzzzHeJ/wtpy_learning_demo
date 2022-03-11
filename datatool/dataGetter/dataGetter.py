@@ -10,29 +10,6 @@ def parse_code(code):
     items = code.split(".")
     return items[0],items[1],items[2]
 
-def strToDate(strDate:str) -> int:
-    items = strDate.split("/")
-    if len(items) == 1:
-        items = strDate.split("-")
-
-    if len(items) > 1:
-        return int(items[0])*10000 + int(items[1])*100 + int(items[2])
-    else:
-        return int(strDate)
-
-def strToTime(strTime:str) -> int:
-    # 对于有毫秒的
-    strTime = strTime.replace(".", ":")
-    items = strTime.split(":")
-    intTime = 0
-    mul = 10000000
-    for i,item in enumerate(items[0:3]):
-        intTime += int(item) * 10000000 / 100**i
-    if len(items) > 1:
-        return int(items[0])*100 + int(items[1])
-    else:
-        return int(strTime)
-    
 class Ifeed(object):
     def __init__(self):
         self.dthelper = WtDataHelper()
@@ -50,7 +27,7 @@ class Ifeed(object):
         buffer = BUFFER()
         for index, row in tqdm(df.iterrows()):
             curBar = buffer[index]
-            curBar.date = strToDate(row["date"])
+            curBar.date = int(row["date"])
             curBar.open = float(row["open"])
             curBar.high = float(row["high"])
             curBar.low = float(row["low"])
@@ -66,7 +43,7 @@ class Ifeed(object):
         buffer = BUFFER()
         for index, row in tqdm(df.iterrows()):
             curBar = buffer[index]
-            curBar.time = (strToDate(row["date"])-19900000)*10000 + strToTime(row["time"])
+            curBar.time = (int(row["date"])-19900000)*10000 + int(row["time"])
             curBar.open = float(row["open"])
             curBar.high = float(row["high"])
             curBar.low = float(row["low"])
@@ -95,9 +72,9 @@ class Ifeed(object):
             curTick.turn_over = float(row["turn_over"])
             curTick.open_interest = float(row["open_interest"])
             curTick.diff_interest = float(row["diff_interest"])
-            curTick.trading_date = strToDate(row["trading_date"])
-            curTick.action_date = strToDate(row["action_date"])
-            curTick.action_time = strToTime(row["action_time"])
+            curTick.trading_date = int(row["trading_date"])
+            curTick.action_date = int(row["action_date"])
+            curTick.action_time = int(int(row["action_time"]) / 1000)
             curTick.pre_close = float(row["pre_close"])
             curTick.pre_settle = float(row["pre_settle"])
             curTick.pre_interest = float(0.0)
@@ -120,10 +97,10 @@ class Ifeed(object):
         self.dthelper.store_ticks(tickFile=dsb_file, firstTick=buffer, count=len(buffer))
         
 class RqFeed(Ifeed):
-    def __init__(self):
+    def __init__(self,user=None,passwd=None):
         super().__init__()
         self.rq = rq
-        self.rq.init()
+        self.rq.init(user,passwd)
         self.bar_col_map = {
             "date":"date",
             "time":"time",
@@ -203,8 +180,8 @@ class RqFeed(Ifeed):
         #改一下时间的格式
         if "datetime" in df.columns:
             df["datetime"] = pd.to_datetime(df["datetime"])
-            df["date"] =  df["datetime"].dt.date.astype("str")
-            df["time"] =  df["datetime"].dt.time.astype("str")
+            df["date"] =  df["datetime"].dt.strftime("%Y%m%d")
+            df["time"] =  df["datetime"].dt.strftime("%H%M%S%f")
             df["trading_date"] =  df["trading_date"].dt.strftime("%Y%m%d")
         else:
             df["date"] =  df["date"].astype("str")
@@ -228,8 +205,8 @@ class RqFeed(Ifeed):
         #改一下时间的格式
         if "datetime" in df.columns:
             df["datetime"] = pd.to_datetime(df["datetime"])
-            df["date"] =  df["datetime"].dt.date.astype("str")
-            df["time"] =  df["datetime"].dt.time.astype("str")
+            df["date"] =  df["datetime"].dt.strftime("%Y%m%d")
+            df["time"] =  df["datetime"].dt.strftime("%H%M%S")
         else:
             df["date"] =  df["date"].astype("str")
             df["time"] = "00:00:00"
@@ -300,6 +277,9 @@ class RqFeed(Ifeed):
             g_df = g_df.reset_index()
             dsb_path = os.path.join(save_path,f"{pid}{month}.dsb")
             self.tick_df_to_dsb(g_df,dsb_path)
+            
+class GqdbFeed(Ifeed):
+    pass
 
 if __name__ == '__main__':
     # 从米筐下载数据
@@ -307,9 +287,9 @@ if __name__ == '__main__':
     # 数据存储的目录
     storage_path = "./storage"
     # 输入的代码记得区分大小写
-    # feed.store_his_bar(storage_path,"SHFE.ni.2201",start_date="20211225",end_date="20220101",frequency="m1")
+    feed.store_his_bar(storage_path,"SHFE.ni.2201",start_date="20211225",end_date="20220101",frequency="m1")
     feed.store_his_tick(storage_path,"SHFE.ni.2201",start_date="20211225",end_date="20220101")
     # 读取dsb数据
     dtHelper = WtDataHelper()
     dtHelper.dump_bars(binFolder="./storage/his/min1/SHFE/", csvFolder="min1_csv")
-    dtHelper.dump_ticks(binFolder="./storage/his/SHFE/20211225/", csvFolder="ticks_csv")
+    dtHelper.dump_ticks(binFolder="./storage/his/ticks/SHFE/20211227/", csvFolder="ticks_csv")
