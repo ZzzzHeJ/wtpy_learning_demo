@@ -1,0 +1,11 @@
+{
+    "marks": [
+        "pydt_au"
+    ],
+    "channels": [
+        "simnow",
+        "exec"
+    ],
+    "executers": [],
+    "engine": "CTA"
+}

@@ -139,13 +139,19 @@ class Ifeed(object):
     
     # 除了转换为dsb格式，还会按照his的格式进行存储
     def store_his_bar(self,storage_path,code,start_date=None,end_date=None,frequency="1m",skip_saved=False):
+        print(f"开始转存{code}")
         exchange,pid,month = self.parse_code(code)
+        if exchange == "CZCE":
+            month = month[-3:]
         if frequency not in self.frequency_map.keys():
             print("周期只能为m1、m5或d,回测或实盘中会自动拼接")
         period = self.period_map[frequency]
         save_path = os.path.join(storage_path,"his",period,exchange)
         if not os.path.exists(save_path):
-            os.makedirs(save_path)
+                try:
+                    os.makedirs(save_path)
+                except:
+                    pass
         dsb_name = f"{pid}{month}.dsb"
         dsb_path = os.path.join(save_path,dsb_name)
         if skip_saved:
@@ -154,15 +160,24 @@ class Ifeed(object):
                 print(f"重复数据，跳过{dsb_name}")
                 return
         df = self.get_bar(code,start_date,end_date,frequency)
+        if df is None:
+            print(f"{code}没有数据")
+            return
         self.bar_df_to_dsb(df,dsb_path,frequency)
         
     def store_his_tick(self,storage_path,code,start_date=None,end_date=None,skip_saved=False):
+        print(f"开始转存{code}")
         exchange,pid,month = self.parse_code(code)
+        if exchange == "CZCE":
+            month = month[-3:]
         # 分天下载，避免内存超出
         for date in pd.date_range(start_date,end_date):
             save_path = os.path.join(storage_path,"his","ticks",exchange,date.strftime('%Y%m%d'))
             if not os.path.exists(save_path):
-                os.makedirs(save_path)
+                try:
+                    os.makedirs(save_path)
+                except:
+                    pass
             dsb_name = f"{pid}{month}.dsb"
             if skip_saved:
                 saved_list = os.listdir(save_path)
@@ -266,8 +281,8 @@ class RqFeed(Ifeed):
             df["time"] =  df["datetime"].dt.strftime("%H%M%S%f")
             df["trading_date"] =  df["trading_date"].dt.strftime("%Y%m%d")
         else:
-            df["date"] =  df["date"].astype("str")
-            df["time"] = "00:00:00"
+            df["date"] =  df["date"].dt.strftime("%Y%m%d")
+            df["time"] = "000000"
             
         multiplier = self.rq.futures.get_contract_multiplier(pid.upper(),start_date,end_date)["contract_multiplier"].max()
         df["settle_price"] = ((df["total_turnover"] / df["volume"]) * multiplier).fillna(0.0)
@@ -293,8 +308,8 @@ class RqFeed(Ifeed):
             df["date"] =  df["datetime"].dt.strftime("%Y%m%d")
             df["time"] =  df["datetime"].dt.strftime("%H%M%S")
         else:
-            df["date"] =  df["date"].astype("str")
-            df["time"] = "00:00:00"
+            df["date"] =  df["date"].dt.strftime("%Y%m%d")
+            df["time"] = "000000"
         df = df[[col for col in self.bar_col_map.keys()]]
         df = df.rename(columns=self.bar_col_map)
         return df

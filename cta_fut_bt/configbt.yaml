@@ -1,0 +1,17 @@
+replayer:
+    basefiles:
+        commodity: ../common/commodities.json
+        contract: ../common/contracts.json
+        holiday: ../common/holidays.json
+        session: ../common/sessions.json
+        hot: ../common/hots.json
+    mode: csv
+    tick: false  # 是否使用tick回测，如果使用tick需要将mode改为bin
+    store:
+      module: WtDataStorage
+      path: ../storage/
+    etime: 201912011500
+    stime: 201909010900
+    fees: ../common/fees.json
+env:
+    mocker: cta
