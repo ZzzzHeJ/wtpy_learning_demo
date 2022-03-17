@@ -33,6 +33,11 @@ Python下的demo主要演示不同环境下不同组件的使用<br
 pip install wtpy
 ```
 
+```tip
+如果出现itsdangerous模块中无法获得json的问题，需要对itsdangerous进行降级执行
+pip install itsdangerous == 2.0.1
+```
+
 ## 如何运行回测demo
 配置*config.yaml*文件，设置策略参数以及回测设置
 ```yaml
