@@ -29,6 +29,10 @@ Python下的demo主要演示不同环境下不同组件的使用<br
 + 首先确认本地安装的是 *Python3.6* 以上的版本，32位、64位都可以，wtpy子框架会根据Python的版本自动选择对应的底层
 + 然后安装*WonderTrader*上的*Python*子框架[***wtpy***](https://pypi.org/project/wtpy/)(version = v0.3.2)
 
+```cmd
+pip install wtpy
+```
+
 ## 如何运行回测demo
 配置*config.yaml*文件，设置策略参数以及回测设置
 ```yaml
@@ -49,10 +53,11 @@ replayer:
     fees: ../common/fees.json
 env:
     mocker: cta
-
 ```
 
 运行目录下的 *run.py* 即可
+
+如果缺少数据，可以使用*dataFeed*继续宁下载，具体请看dataFeed.py，目前支持米筐与GQDB
 
 ## 如何运行实盘demo
 ### 1. 运行数据组件（datakit_fut）
