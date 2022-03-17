@@ -30,8 +30,30 @@ Python下的demo主要演示不同环境下不同组件的使用<br
 + 然后安装*WonderTrader*上的*Python*子框架[***wtpy***](https://pypi.org/project/wtpy/)(version = v0.3.2)
 
 ## 如何运行回测demo
-    
-    直接运行目录下的 *run.py* 即可
+配置*config.yaml*文件，设置策略参数以及回测设置
+```yaml
+replayer:
+    basefiles:
+        commodity: ../common/commodities.json
+        contract: ../common/contracts.json
+        holiday: ../common/holidays.json
+        session: ../common/sessions.json
+        hot: ../common/hots.json
+    mode: csv
+    tick: false  # 是否使用tick回测，如果使用tick需要将mode改为bin
+    store:
+      module: WtDataStorage
+      path: ../storage/
+    etime: 201912011500
+    stime: 201909010900
+    fees: ../common/fees.json
+env:
+    mocker: cta
+
+```
+
+运行目录下的 *run.py* 即可
+
 ## 如何运行实盘demo
 ### 1. 运行数据组件（datakit_fut）
 
