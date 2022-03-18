@@ -139,3 +139,5 @@ cython_debug/
 *.dsb
 *.csv
 *.txt
+*.dmb
+*.con

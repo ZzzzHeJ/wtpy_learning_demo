@@ -7,7 +7,6 @@ Python下的demo主要演示不同环境下不同组件的使用<br
 + cta_fut_bt        期货回测demo
 + dataFeed          数据源demo，用来从米筐或者Gqdb获取回测用的历史数据
 + cta_optimizer     CTA策略优化器demo
-+ =============================================
 + cta_arbitrage_bt  期货套利回测demo
 + cta_stk           股票CTA实盘demo，配置的是XTP的仿真通道
 + cta_stk_bt        股票回测demo

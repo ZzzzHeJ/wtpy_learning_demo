@@ -9,7 +9,7 @@ import multiprocessing
 from tqdm import tqdm
 # rqFeed = RqFeed()
 gqFeed = GqdbFeed(host="192.168.0.132")
-storage_path = r"\\WIN-52AMQLH0TIA\WonderTrader\storage"
+storage_path = r"\\WIN-52AMQLH0TIA\WonderTrader\storage\FUT_DATA"
 def update_bar(row):
     feed = RqFeed()
     symbol = row["order_book_id"]
